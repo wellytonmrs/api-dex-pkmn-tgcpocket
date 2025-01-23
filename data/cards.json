@@ -1,6 +1,7 @@
 [
     {
         "id": "A1-001",
+        "dex": "A1M",
         "setId": "A1",
         "number": "1",
         "name": "Bulbasaur",
@@ -18,6 +19,7 @@
     },
     {
         "id": "A1-002",
+        "dex": "A1M",
         "setId": "A1",
         "number": "2",
         "name": "Ivysaur",
@@ -35,6 +37,7 @@
     },
     {
         "id": "A1-003",
+        "dex": "A1M",
         "setId": "A1",
         "number": "3",
         "name": "Venusaur",
@@ -52,6 +55,7 @@
     },
     {
         "id": "A1-004",
+        "dex": "A1M",
         "setId": "A1",
         "number": "4",
         "name": "Venusaur ex",
@@ -69,6 +73,7 @@
     },
     {
         "id": "A1-005",
+        "dex": "A1P",
         "setId": "A1",
         "number": "5",
         "name": "Caterpie",
@@ -86,6 +91,7 @@
     },
     {
         "id": "A1-006",
+        "dex": "A1P",
         "setId": "A1",
         "number": "6",
         "name": "Metapod",
@@ -103,6 +109,7 @@
     },
     {
         "id": "A1-007",
+        "dex": "A1P",
         "setId": "A1",
         "number": "7",
         "name": "Butterfree",
@@ -126,6 +133,7 @@
     },
     {
         "id": "A1-008",
+        "dex": "A1M",
         "setId": "A1",
         "number": "8",
         "name": "Weedle",
@@ -143,6 +151,7 @@
     },
     {
         "id": "A1-009",
+        "dex": "A1M",
         "setId": "A1",
         "number": "9",
         "name": "Kakuna",
@@ -160,6 +169,7 @@
     },
     {
         "id": "A1-010",
+        "dex": "A1M",
         "setId": "A1",
         "number": "10",
         "name": "Beedrill",
@@ -177,6 +187,7 @@
     },
     {
         "id": "A1-011",
+        "dex": "A1C",
         "setId": "A1",
         "number": "11",
         "name": "Oddish",
@@ -194,6 +205,7 @@
     },
     {
         "id": "A1-012",
+        "dex": "A1C",
         "setId": "A1",
         "number": "12",
         "name": "Gloom",
@@ -211,6 +223,7 @@
     },
     {
         "id": "A1-013",
+        "dex": "A1C",
         "setId": "A1",
         "number": "13",
         "name": "Vileplume",
@@ -228,6 +241,7 @@
     },
     {
         "id": "A1-014",
+        "dex": "A1P",
         "setId": "A1",
         "number": "14",
         "name": "Paras",
@@ -245,6 +259,7 @@
     },
     {
         "id": "A1-015",
+        "dex": "A1P",
         "setId": "A1",
         "number": "15",
         "name": "Parasect",
@@ -262,6 +277,7 @@
     },
     {
         "id": "A1-016",
+        "dex": "A1M",
         "setId": "A1",
         "number": "16",
         "name": "Venonat",
@@ -279,6 +295,7 @@
     },
     {
         "id": "A1-017",
+        "dex": "A1M",
         "setId": "A1",
         "number": "17",
         "name": "Venomoth",
@@ -296,6 +313,7 @@
     },
     {
         "id": "A1-018",
+        "dex": "A1C",
         "setId": "A1",
         "number": "18",
         "name": "Bellsprout",
@@ -313,6 +331,7 @@
     },
     {
         "id": "A1-019",
+        "dex": "A1C",
         "setId": "A1",
         "number": "19",
         "name": "Weepinbell",
@@ -330,6 +349,7 @@
     },
     {
         "id": "A1-020",
+        "dex": "A1C",
         "setId": "A1",
         "number": "20",
         "name": "Victreebel",
@@ -353,6 +373,7 @@
     },
     {
         "id": "A1-021",
+        "dex": "A1C",
         "setId": "A1",
         "number": "21",
         "name": "Exeggcute",
@@ -370,6 +391,7 @@
     },
     {
         "id": "A1-022",
+        "dex": "A1C",
         "setId": "A1",
         "number": "22",
         "name": "Exeggutor",
@@ -387,6 +409,7 @@
     },
     {
         "id": "A1-023",
+        "dex": "A1C",
         "setId": "A1",
         "number": "23",
         "name": "Exeggutor ex",
@@ -404,6 +427,7 @@
     },
     {
         "id": "A1-024",
+        "dex": "A1C",
         "setId": "A1",
         "number": "24",
         "name": "Tangela",
@@ -421,6 +445,7 @@
     },
     {
         "id": "A1-025",
+        "dex": "A1M",
         "setId": "A1",
         "number": "25",
         "name": "Scyther",
@@ -438,6 +463,7 @@
     },
     {
         "id": "A1-026",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "26",
         "name": "Pinsir",
@@ -455,6 +481,7 @@
     },
     {
         "id": "A1-027",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "27",
         "name": "Cottonee",
@@ -472,6 +499,7 @@
     },
     {
         "id": "A1-028",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "28",
         "name": "Whimsicott",
@@ -489,6 +517,7 @@
     },
     {
         "id": "A1-029",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "29",
         "name": "Petilil",
@@ -506,6 +535,7 @@
     },
     {
         "id": "A1-030",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "30",
         "name": "Lilligant",
@@ -523,6 +553,7 @@
     },
     {
         "id": "A1-031",
+        "dex": "A1C",
         "setId": "A1",
         "number": "31",
         "name": "Skiddo",
@@ -540,6 +571,7 @@
     },
     {
         "id": "A1-032",
+        "dex": "A1C",
         "setId": "A1",
         "number": "32",
         "name": "Gogoat",
@@ -557,6 +589,7 @@
     },
     {
         "id": "A1-033",
+        "dex": "A1C",
         "setId": "A1",
         "number": "33",
         "name": "Charmander",
@@ -574,6 +607,7 @@
     },
     {
         "id": "A1-034",
+        "dex": "A1C",
         "setId": "A1",
         "number": "34",
         "name": "Charmeleon",
@@ -591,6 +625,7 @@
     },
     {
         "id": "A1-035",
+        "dex": "A1C",
         "setId": "A1",
         "number": "35",
         "name": "Charizard",
@@ -608,6 +643,7 @@
     },
     {
         "id": "A1-036",
+        "dex": "A1C",
         "setId": "A1",
         "number": "36",
         "name": "Charizard ex",
@@ -625,6 +661,7 @@
     },
     {
         "id": "A1-037",
+        "dex": "A1C",
         "setId": "A1",
         "number": "37",
         "name": "Vulpix",
@@ -642,6 +679,7 @@
     },
     {
         "id": "A1-038",
+        "dex": "A1C",
         "setId": "A1",
         "number": "38",
         "name": "Ninetales",
@@ -659,6 +697,7 @@
     },
     {
         "id": "A1-039",
+        "dex": "A1P",
         "setId": "A1",
         "number": "39",
         "name": "Growlithe",
@@ -676,6 +715,7 @@
     },
     {
         "id": "A1-040",
+        "dex": "A1P",
         "setId": "A1",
         "number": "40",
         "name": "Arcanine",
@@ -693,6 +733,7 @@
     },
     {
         "id": "A1-041",
+        "dex": "A1P",
         "setId": "A1",
         "number": "41",
         "name": "Arcanine ex",
@@ -710,6 +751,7 @@
     },
     {
         "id": "A1-042",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "42",
         "name": "Ponyta",
@@ -727,6 +769,7 @@
     },
     {
         "id": "A1-043",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "43",
         "name": "Rapidash",
@@ -744,6 +787,7 @@
     },
     {
         "id": "A1-044",
+        "dex": "A1C",
         "setId": "A1",
         "number": "44",
         "name": "Magmar",
@@ -761,6 +805,7 @@
     },
     {
         "id": "A1-045",
+        "dex": "A1C",
         "setId": "A1",
         "number": "45",
         "name": "Flareon",
@@ -778,6 +823,7 @@
     },
     {
         "id": "A1-046",
+        "dex": "A1C",
         "setId": "A1",
         "number": "46",
         "name": "Moltres",
@@ -795,6 +841,7 @@
     },
     {
         "id": "A1-047",
+        "dex": "A1C",
         "setId": "A1",
         "number": "47",
         "name": "Moltres ex",
@@ -812,6 +859,7 @@
     },
     {
         "id": "A1-048",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "48",
         "name": "Heatmor",
@@ -829,6 +877,7 @@
     },
     {
         "id": "A1-049",
+        "dex": "A1M",
         "setId": "A1",
         "number": "49",
         "name": "Salandit",
@@ -846,6 +895,7 @@
     },
     {
         "id": "A1-050",
+        "dex": "A1M",
         "setId": "A1",
         "number": "50",
         "name": "Salazzle",
@@ -863,6 +913,7 @@
     },
     {
         "id": "A1-051",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "51",
         "name": "Sizzlipede",
@@ -880,6 +931,7 @@
     },
     {
         "id": "A1-052",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "52",
         "name": "Centiskorch",
@@ -897,6 +949,7 @@
     },
     {
         "id": "A1-053",
+        "dex": "A1P",
         "setId": "A1",
         "number": "53",
         "name": "Squirtle",
@@ -914,6 +967,7 @@
     },
     {
         "id": "A1-054",
+        "dex": "A1P",
         "setId": "A1",
         "number": "54",
         "name": "Wartortle",
@@ -931,6 +985,7 @@
     },
     {
         "id": "A1-055",
+        "dex": "A1P",
         "setId": "A1",
         "number": "55",
         "name": "Blastoise",
@@ -948,6 +1003,7 @@
     },
     {
         "id": "A1-056",
+        "dex": "A1P",
         "setId": "A1",
         "number": "56",
         "name": "Blastoise ex",
@@ -965,6 +1021,7 @@
     },
     {
         "id": "A1-057",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "57",
         "name": "Psyduck",
@@ -982,6 +1039,7 @@
     },
     {
         "id": "A1-058",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "58",
         "name": "Golduck",
@@ -999,6 +1057,7 @@
     },
     {
         "id": "A1-059",
+        "dex": "A1C",
         "setId": "A1",
         "number": "59",
         "name": "Poliwag",
@@ -1016,6 +1075,7 @@
     },
     {
         "id": "A1-060",
+        "dex": "A1C",
         "setId": "A1",
         "number": "60",
         "name": "Poliwhirl",
@@ -1033,6 +1093,7 @@
     },
     {
         "id": "A1-061",
+        "dex": "A1C",
         "setId": "A1",
         "number": "61",
         "name": "Poliwrath",
@@ -1056,6 +1117,7 @@
     },
     {
         "id": "A1-062",
+        "dex": "A1M",
         "setId": "A1",
         "number": "62",
         "name": "Tentacool",
@@ -1073,6 +1135,7 @@
     },
     {
         "id": "A1-063",
+        "dex": "A1M",
         "setId": "A1",
         "number": "63",
         "name": "Tentacruel",
@@ -1090,6 +1153,7 @@
     },
     {
         "id": "A1-064",
+        "dex": "A1P",
         "setId": "A1",
         "number": "64",
         "name": "Seel",
@@ -1107,6 +1171,7 @@
     },
     {
         "id": "A1-065",
+        "dex": "A1P",
         "setId": "A1",
         "number": "65",
         "name": "Dewgong",
@@ -1124,6 +1189,7 @@
     },
     {
         "id": "A1-066",
+        "dex": "A1M",
         "setId": "A1",
         "number": "66",
         "name": "Shellder",
@@ -1141,6 +1207,7 @@
     },
     {
         "id": "A1-067",
+        "dex": "A1M",
         "setId": "A1",
         "number": "67",
         "name": "Cloyster",
@@ -1164,6 +1231,7 @@
     },
     {
         "id": "A1-068",
+        "dex": "A1M",
         "setId": "A1",
         "number": "68",
         "name": "Krabby",
@@ -1181,6 +1249,7 @@
     },
     {
         "id": "A1-069",
+        "dex": "A1M",
         "setId": "A1",
         "number": "69",
         "name": "Kingler",
@@ -1198,6 +1267,7 @@
     },
     {
         "id": "A1-070",
+        "dex": "A1P",
         "setId": "A1",
         "number": "70",
         "name": "Horsea",
@@ -1215,6 +1285,7 @@
     },
     {
         "id": "A1-071",
+        "dex": "A1P",
         "setId": "A1",
         "number": "71",
         "name": "Seadra",
@@ -1232,6 +1303,7 @@
     },
     {
         "id": "A1-072",
+        "dex": "A1P",
         "setId": "A1",
         "number": "72",
         "name": "Goldeen",
@@ -1249,6 +1321,7 @@
     },
     {
         "id": "A1-073",
+        "dex": "A1P",
         "setId": "A1",
         "number": "73",
         "name": "Seaking",
@@ -1266,6 +1339,7 @@
     },
     {
         "id": "A1-074",
+        "dex": "A1C",
         "setId": "A1",
         "number": "74",
         "name": "Staryu",
@@ -1283,6 +1357,7 @@
     },
     {
         "id": "A1-075",
+        "dex": "A1C",
         "setId": "A1",
         "number": "75",
         "name": "Starmie",
@@ -1300,6 +1375,7 @@
     },
     {
         "id": "A1-076",
+        "dex": "A1C",
         "setId": "A1",
         "number": "76",
         "name": "Starmie ex",
@@ -1317,6 +1393,7 @@
     },
     {
         "id": "A1-077",
+        "dex": "A1P",
         "setId": "A1",
         "number": "77",
         "name": "Magikarp",
@@ -1334,6 +1411,7 @@
     },
     {
         "id": "A1-078",
+        "dex": "A1P",
         "setId": "A1",
         "number": "78",
         "name": "Gyarados",
@@ -1351,6 +1429,7 @@
     },
     {
         "id": "A1-079",
+        "dex": "A1C",
         "setId": "A1",
         "number": "79",
         "name": "Lapras",
@@ -1368,6 +1447,7 @@
     },
     {
         "id": "A1-080",
+        "dex": "A1M",
         "setId": "A1",
         "number": "80",
         "name": "Vaporeon",
@@ -1385,6 +1465,7 @@
     },
     {
         "id": "A1-081",
+        "dex": "A1P",
         "setId": "A1",
         "number": "81",
         "name": "Omanyte",
@@ -1402,6 +1483,7 @@
     },
     {
         "id": "A1-082",
+        "dex": "A1P",
         "setId": "A1",
         "number": "82",
         "name": "Omastar",
@@ -1419,6 +1501,7 @@
     },
     {
         "id": "A1-083",
+        "dex": "A1M",
         "setId": "A1",
         "number": "83",
         "name": "Articuno",
@@ -1436,6 +1519,7 @@
     },
     {
         "id": "A1-084",
+        "dex": "A1M",
         "setId": "A1",
         "number": "84",
         "name": "Articuno ex",
@@ -1453,6 +1537,7 @@
     },
     {
         "id": "A1-085",
+        "dex": "A1C",
         "setId": "A1",
         "number": "85",
         "name": "Ducklett",
@@ -1470,6 +1555,7 @@
     },
     {
         "id": "A1-086",
+        "dex": "A1C",
         "setId": "A1",
         "number": "86",
         "name": "Swanna",
@@ -1487,6 +1573,7 @@
     },
     {
         "id": "A1-087",
+        "dex": "A1C",
         "setId": "A1",
         "number": "87",
         "name": "Froakie",
@@ -1504,6 +1591,7 @@
     },
     {
         "id": "A1-088",
+        "dex": "A1C",
         "setId": "A1",
         "number": "88",
         "name": "Frogadier",
@@ -1521,6 +1609,7 @@
     },
     {
         "id": "A1-089",
+        "dex": "A1C",
         "setId": "A1",
         "number": "89",
         "name": "Greninja",
@@ -1544,6 +1633,7 @@
     },
     {
         "id": "A1-090",
+        "dex": "A1C",
         "setId": "A1",
         "number": "90",
         "name": "Pyukumuku",
@@ -1561,6 +1651,7 @@
     },
     {
         "id": "A1-091",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "91",
         "name": "Bruxish",
@@ -1578,6 +1669,7 @@
     },
     {
         "id": "A1-092",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "92",
         "name": "Snom",
@@ -1595,6 +1687,7 @@
     },
     {
         "id": "A1-093",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "93",
         "name": "Frosmoth",
@@ -1612,6 +1705,7 @@
     },
     {
         "id": "A1-094",
+        "dex": "A1P",
         "setId": "A1",
         "number": "94",
         "name": "Pikachu",
@@ -1629,6 +1723,7 @@
     },
     {
         "id": "A1-095",
+        "dex": "A1P",
         "setId": "A1",
         "number": "95",
         "name": "Raichu",
@@ -1646,6 +1741,7 @@
     },
     {
         "id": "A1-096",
+        "dex": "A1P",
         "setId": "A1",
         "number": "96",
         "name": "Pikachu ex",
@@ -1663,6 +1759,7 @@
     },
     {
         "id": "A1-097",
+        "dex": "A1P",
         "setId": "A1",
         "number": "97",
         "name": "Magnemite",
@@ -1680,6 +1777,7 @@
     },
     {
         "id": "A1-098",
+        "dex": "A1P",
         "setId": "A1",
         "number": "98",
         "name": "Magneton",
@@ -1703,6 +1801,7 @@
     },
     {
         "id": "A1-099",
+        "dex": "A1P",
         "setId": "A1",
         "number": "99",
         "name": "Voltorb",
@@ -1720,6 +1819,7 @@
     },
     {
         "id": "A1-100",
+        "dex": "A1P",
         "setId": "A1",
         "number": "100",
         "name": "Electrode",
@@ -1737,6 +1837,7 @@
     },
     {
         "id": "A1-101",
+        "dex": "A1P",
         "setId": "A1",
         "number": "101",
         "name": "Electabuzz",
@@ -1754,6 +1855,7 @@
     },
     {
         "id": "A1-102",
+        "dex": "A1P",
         "setId": "A1",
         "number": "102",
         "name": "Jolteon",
@@ -1771,6 +1873,7 @@
     },
     {
         "id": "A1-103",
+        "dex": "A1P",
         "setId": "A1",
         "number": "103",
         "name": "Zapdos",
@@ -1788,6 +1891,7 @@
     },
     {
         "id": "A1-104",
+        "dex": "A1P",
         "setId": "A1",
         "number": "104",
         "name": "Zapdos ex",
@@ -1805,6 +1909,7 @@
     },
     {
         "id": "A1-105",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "105",
         "name": "Blitzle",
@@ -1822,6 +1927,7 @@
     },
     {
         "id": "A1-106",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "106",
         "name": "Zebstrika",
@@ -1839,6 +1945,7 @@
     },
     {
         "id": "A1-107",
+        "dex": "A1M",
         "setId": "A1",
         "number": "107",
         "name": "Tynamo",
@@ -1856,6 +1963,7 @@
     },
     {
         "id": "A1-108",
+        "dex": "A1M",
         "setId": "A1",
         "number": "108",
         "name": "Eelektrik",
@@ -1873,6 +1981,7 @@
     },
     {
         "id": "A1-109",
+        "dex": "A1M",
         "setId": "A1",
         "number": "109",
         "name": "Eelektross",
@@ -1890,6 +1999,7 @@
     },
     {
         "id": "A1-110",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "110",
         "name": "Helioptile",
@@ -1907,6 +2017,7 @@
     },
     {
         "id": "A1-111",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "111",
         "name": "Heliolisk",
@@ -1924,6 +2035,7 @@
     },
     {
         "id": "A1-112",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "112",
         "name": "Pincurchin",
@@ -1941,6 +2053,7 @@
     },
     {
         "id": "A1-113",
+        "dex": "A1P",
         "setId": "A1",
         "number": "113",
         "name": "Clefairy",
@@ -1958,6 +2071,7 @@
     },
     {
         "id": "A1-114",
+        "dex": "A1P",
         "setId": "A1",
         "number": "114",
         "name": "Clefable",
@@ -1975,6 +2089,7 @@
     },
     {
         "id": "A1-115",
+        "dex": "A1C",
         "setId": "A1",
         "number": "115",
         "name": "Abra",
@@ -1992,6 +2107,7 @@
     },
     {
         "id": "A1-116",
+        "dex": "A1C",
         "setId": "A1",
         "number": "116",
         "name": "Kadabra",
@@ -2009,6 +2125,7 @@
     },
     {
         "id": "A1-117",
+        "dex": "A1C",
         "setId": "A1",
         "number": "117",
         "name": "Alakazam",
@@ -2026,6 +2143,7 @@
     },
     {
         "id": "A1-118",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "118",
         "name": "Slowpoke",
@@ -2043,6 +2161,7 @@
     },
     {
         "id": "A1-119",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "119",
         "name": "Slowbro",
@@ -2060,6 +2179,7 @@
     },
     {
         "id": "A1-120",
+        "dex": "A1M",
         "setId": "A1",
         "number": "120",
         "name": "Gastly",
@@ -2077,6 +2197,7 @@
     },
     {
         "id": "A1-121",
+        "dex": "A1M",
         "setId": "A1",
         "number": "121",
         "name": "Haunter",
@@ -2094,6 +2215,7 @@
     },
     {
         "id": "A1-122",
+        "dex": "A1M",
         "setId": "A1",
         "number": "122",
         "name": "Gengar",
@@ -2111,6 +2233,7 @@
     },
     {
         "id": "A1-123",
+        "dex": "A1M",
         "setId": "A1",
         "number": "123",
         "name": "Gengar ex",
@@ -2134,6 +2257,7 @@
     },
     {
         "id": "A1-124",
+        "dex": "A1P",
         "setId": "A1",
         "number": "124",
         "name": "Drowzee",
@@ -2151,6 +2275,7 @@
     },
     {
         "id": "A1-125",
+        "dex": "A1P",
         "setId": "A1",
         "number": "125",
         "name": "Hypno",
@@ -2174,6 +2299,7 @@
     },
     {
         "id": "A1-126",
+        "dex": "A1M",
         "setId": "A1",
         "number": "126",
         "name": "Mr. Mime",
@@ -2191,6 +2317,7 @@
     },
     {
         "id": "A1-127",
+        "dex": "A1M",
         "setId": "A1",
         "number": "127",
         "name": "Jynx",
@@ -2208,6 +2335,7 @@
     },
     {
         "id": "A1-128",
+        "dex": "A1M",
         "setId": "A1",
         "number": "128",
         "name": "Mewtwo",
@@ -2225,6 +2353,7 @@
     },
     {
         "id": "A1-129",
+        "dex": "A1M",
         "setId": "A1",
         "number": "129",
         "name": "Mewtwo ex",
@@ -2242,6 +2371,7 @@
     },
     {
         "id": "A1-130",
+        "dex": "A1M",
         "setId": "A1",
         "number": "130",
         "name": "Ralts",
@@ -2259,6 +2389,7 @@
     },
     {
         "id": "A1-131",
+        "dex": "A1M",
         "setId": "A1",
         "number": "131",
         "name": "Kirlia",
@@ -2276,6 +2407,7 @@
     },
     {
         "id": "A1-132",
+        "dex": "A1M",
         "setId": "A1",
         "number": "132",
         "name": "Gardevoir",
@@ -2299,6 +2431,7 @@
     },
     {
         "id": "A1-133",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "133",
         "name": "Woobat",
@@ -2316,6 +2449,7 @@
     },
     {
         "id": "A1-134",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "134",
         "name": "Swoobat",
@@ -2333,6 +2467,7 @@
     },
     {
         "id": "A1-135",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "135",
         "name": "Golett",
@@ -2350,6 +2485,7 @@
     },
     {
         "id": "A1-136",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "136",
         "name": "Golurk",
@@ -2367,6 +2503,7 @@
     },
     {
         "id": "A1-137",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "137",
         "name": "Sandshrew",
@@ -2384,6 +2521,7 @@
     },
     {
         "id": "A1-138",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "138",
         "name": "Sandslash",
@@ -2401,6 +2539,7 @@
     },
     {
         "id": "A1-139",
+        "dex": "A1P",
         "setId": "A1",
         "number": "139",
         "name": "Diglett",
@@ -2418,6 +2557,7 @@
     },
     {
         "id": "A1-140",
+        "dex": "A1P",
         "setId": "A1",
         "number": "140",
         "name": "Dugtrio",
@@ -2435,6 +2575,7 @@
     },
     {
         "id": "A1-141",
+        "dex": "A1C",
         "setId": "A1",
         "number": "141",
         "name": "Mankey",
@@ -2452,6 +2593,7 @@
     },
     {
         "id": "A1-142",
+        "dex": "A1C",
         "setId": "A1",
         "number": "142",
         "name": "Primeape",
@@ -2469,6 +2611,7 @@
     },
     {
         "id": "A1-143",
+        "dex": "A1C",
         "setId": "A1",
         "number": "143",
         "name": "Machop",
@@ -2486,6 +2629,7 @@
     },
     {
         "id": "A1-144",
+        "dex": "A1C",
         "setId": "A1",
         "number": "144",
         "name": "Machoke",
@@ -2503,6 +2647,7 @@
     },
     {
         "id": "A1-145",
+        "dex": "A1C",
         "setId": "A1",
         "number": "145",
         "name": "Machamp",
@@ -2520,6 +2665,7 @@
     },
     {
         "id": "A1-146",
+        "dex": "A1C",
         "setId": "A1",
         "number": "146",
         "name": "Machamp ex",
@@ -2537,6 +2683,7 @@
     },
     {
         "id": "A1-147",
+        "dex": "A1P",
         "setId": "A1",
         "number": "147",
         "name": "Geodude",
@@ -2554,6 +2701,7 @@
     },
     {
         "id": "A1-148",
+        "dex": "A1P",
         "setId": "A1",
         "number": "148",
         "name": "Graveler",
@@ -2571,6 +2719,7 @@
     },
     {
         "id": "A1-149",
+        "dex": "A1P",
         "setId": "A1",
         "number": "149",
         "name": "Golem",
@@ -2588,6 +2737,7 @@
     },
     {
         "id": "A1-150",
+        "dex": "A1P",
         "setId": "A1",
         "number": "150",
         "name": "Onix",
@@ -2605,6 +2755,7 @@
     },
     {
         "id": "A1-151",
+        "dex": "A1M",
         "setId": "A1",
         "number": "151",
         "name": "Cubone",
@@ -2622,6 +2773,7 @@
     },
     {
         "id": "A1-152",
+        "dex": "A1M",
         "setId": "A1",
         "number": "152",
         "name": "Marowak",
@@ -2639,6 +2791,7 @@
     },
     {
         "id": "A1-153",
+        "dex": "A1M",
         "setId": "A1",
         "number": "153",
         "name": "Marowak ex",
@@ -2656,6 +2809,7 @@
     },
     {
         "id": "A1-154",
+        "dex": "A1M",
         "setId": "A1",
         "number": "154",
         "name": "Hitmonlee",
@@ -2673,6 +2827,7 @@
     },
     {
         "id": "A1-155",
+        "dex": "A1C",
         "setId": "A1",
         "number": "155",
         "name": "Hitmonchan",
@@ -2690,6 +2845,7 @@
     },
     {
         "id": "A1-156",
+        "dex": "A1M",
         "setId": "A1",
         "number": "156",
         "name": "Rhyhorn",
@@ -2707,6 +2863,7 @@
     },
     {
         "id": "A1-157",
+        "dex": "A1M",
         "setId": "A1",
         "number": "157",
         "name": "Rhydon",
@@ -2724,6 +2881,7 @@
     },
     {
         "id": "A1-158",
+        "dex": "A1C",
         "setId": "A1",
         "number": "158",
         "name": "Kabuto",
@@ -2741,6 +2899,7 @@
     },
     {
         "id": "A1-159",
+        "dex": "A1C",
         "setId": "A1",
         "number": "159",
         "name": "Kabutops",
@@ -2758,6 +2917,7 @@
     },
     {
         "id": "A1-160",
+        "dex": "A1P",
         "setId": "A1",
         "number": "160",
         "name": "Mienfoo",
@@ -2775,6 +2935,7 @@
     },
     {
         "id": "A1-161",
+        "dex": "A1P",
         "setId": "A1",
         "number": "161",
         "name": "Mienshao",
@@ -2792,6 +2953,7 @@
     },
     {
         "id": "A1-162",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "162",
         "name": "Clobbopus",
@@ -2809,6 +2971,7 @@
     },
     {
         "id": "A1-163",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "163",
         "name": "Grapploct",
@@ -2826,6 +2989,7 @@
     },
     {
         "id": "A1-164",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "164",
         "name": "Ekans",
@@ -2843,6 +3007,7 @@
     },
     {
         "id": "A1-165",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "165",
         "name": "Arbok",
@@ -2860,6 +3025,7 @@
     },
     {
         "id": "A1-166",
+        "dex": "A1P",
         "setId": "A1",
         "number": "166",
         "name": "Nidoran♀",
@@ -2877,6 +3043,7 @@
     },
     {
         "id": "A1-167",
+        "dex": "A1P",
         "setId": "A1",
         "number": "167",
         "name": "Nidorina",
@@ -2894,6 +3061,7 @@
     },
     {
         "id": "A1-168",
+        "dex": "A1P",
         "setId": "A1",
         "number": "168",
         "name": "Nidoqueen",
@@ -2911,6 +3079,7 @@
     },
     {
         "id": "A1-169",
+        "dex": "A1P",
         "setId": "A1",
         "number": "169",
         "name": "Nidoran♂",
@@ -2928,6 +3097,7 @@
     },
     {
         "id": "A1-170",
+        "dex": "A1P",
         "setId": "A1",
         "number": "170",
         "name": "Nidorino",
@@ -2945,6 +3115,7 @@
     },
     {
         "id": "A1-171",
+        "dex": "A1P",
         "setId": "A1",
         "number": "171",
         "name": "Nidoking",
@@ -2962,6 +3133,7 @@
     },
     {
         "id": "A1-172",
+        "dex": "A1M",
         "setId": "A1",
         "number": "172",
         "name": "Zubat",
@@ -2979,6 +3151,7 @@
     },
     {
         "id": "A1-173",
+        "dex": "A1M",
         "setId": "A1",
         "number": "173",
         "name": "Golbat",
@@ -2996,6 +3169,7 @@
     },
     {
         "id": "A1-174",
+        "dex": "A1M",
         "setId": "A1",
         "number": "174",
         "name": "Grimer",
@@ -3013,6 +3187,7 @@
     },
     {
         "id": "A1-175",
+        "dex": "A1M",
         "setId": "A1",
         "number": "175",
         "name": "Muk",
@@ -3030,6 +3205,7 @@
     },
     {
         "id": "A1-176",
+        "dex": "A1M",
         "setId": "A1",
         "number": "176",
         "name": "Koffing",
@@ -3047,6 +3223,7 @@
     },
     {
         "id": "A1-177",
+        "dex": "A1M",
         "setId": "A1",
         "number": "177",
         "name": "Weezing",
@@ -3070,6 +3247,7 @@
     },
     {
         "id": "A1-178",
+        "dex": "A1C",
         "setId": "A1",
         "number": "178",
         "name": "Mawile",
@@ -3087,6 +3265,7 @@
     },
     {
         "id": "A1-179",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "179",
         "name": "Pawniard",
@@ -3104,6 +3283,7 @@
     },
     {
         "id": "A1-180",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "180",
         "name": "Bisharp",
@@ -3121,6 +3301,7 @@
     },
     {
         "id": "A1-181",
+        "dex": "A1C",
         "setId": "A1",
         "number": "181",
         "name": "Meltan",
@@ -3138,6 +3319,7 @@
     },
     {
         "id": "A1-182",
+        "dex": "A1C",
         "setId": "A1",
         "number": "182",
         "name": "Melmetal",
@@ -3161,6 +3343,7 @@
     },
     {
         "id": "A1-183",
+        "dex": "A1M",
         "setId": "A1",
         "number": "183",
         "name": "Dratini",
@@ -3178,6 +3361,7 @@
     },
     {
         "id": "A1-184",
+        "dex": "A1M",
         "setId": "A1",
         "number": "184",
         "name": "Dragonair",
@@ -3195,6 +3379,7 @@
     },
     {
         "id": "A1-185",
+        "dex": "A1M",
         "setId": "A1",
         "number": "185",
         "name": "Dragonite",
@@ -3212,6 +3397,7 @@
     },
     {
         "id": "A1-186",
+        "dex": "A1M",
         "setId": "A1",
         "number": "186",
         "name": "Pidgey",
@@ -3229,6 +3415,7 @@
     },
     {
         "id": "A1-187",
+        "dex": "A1M",
         "setId": "A1",
         "number": "187",
         "name": "Pidgeotto",
@@ -3246,6 +3433,7 @@
     },
     {
         "id": "A1-188",
+        "dex": "A1M",
         "setId": "A1",
         "number": "188",
         "name": "Pidgeot",
@@ -3269,6 +3457,7 @@
     },
     {
         "id": "A1-189",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "189",
         "name": "Rattata",
@@ -3286,6 +3475,7 @@
     },
     {
         "id": "A1-190",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "190",
         "name": "Raticate",
@@ -3303,6 +3493,7 @@
     },
     {
         "id": "A1-191",
+        "dex": "A1C",
         "setId": "A1",
         "number": "191",
         "name": "Spearow",
@@ -3320,6 +3511,7 @@
     },
     {
         "id": "A1-192",
+        "dex": "A1C",
         "setId": "A1",
         "number": "192",
         "name": "Fearow",
@@ -3337,6 +3529,7 @@
     },
     {
         "id": "A1-193",
+        "dex": "A1P",
         "setId": "A1",
         "number": "193",
         "name": "Jigglypuff",
@@ -3354,6 +3547,7 @@
     },
     {
         "id": "A1-194",
+        "dex": "A1P",
         "setId": "A1",
         "number": "194",
         "name": "Wigglytuff",
@@ -3371,6 +3565,7 @@
     },
     {
         "id": "A1-195",
+        "dex": "A1P",
         "setId": "A1",
         "number": "195",
         "name": "Wigglytuff ex",
@@ -3388,6 +3583,7 @@
     },
     {
         "id": "A1-196",
+        "dex": "A1C",
         "setId": "A1",
         "number": "196",
         "name": "Meowth",
@@ -3405,6 +3601,7 @@
     },
     {
         "id": "A1-197",
+        "dex": "A1C",
         "setId": "A1",
         "number": "197",
         "name": "Persian",
@@ -3422,6 +3619,7 @@
     },
     {
         "id": "A1-198",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "198",
         "name": "Farfetch'd",
@@ -3439,6 +3637,7 @@
     },
     {
         "id": "A1-199",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "199",
         "name": "Doduo",
@@ -3456,6 +3655,7 @@
     },
     {
         "id": "A1-200",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "200",
         "name": "Dodrio",
@@ -3473,6 +3673,7 @@
     },
     {
         "id": "A1-201",
+        "dex": "A1M",
         "setId": "A1",
         "number": "201",
         "name": "Lickitung",
@@ -3490,6 +3691,7 @@
     },
     {
         "id": "A1-202",
+        "dex": "A1P",
         "setId": "A1",
         "number": "202",
         "name": "Chansey",
@@ -3507,6 +3709,7 @@
     },
     {
         "id": "A1-203",
+        "dex": "A1C",
         "setId": "A1",
         "number": "203",
         "name": "Kangaskhan",
@@ -3524,6 +3727,7 @@
     },
     {
         "id": "A1-204",
+        "dex": "A1C",
         "setId": "A1",
         "number": "204",
         "name": "Tauros",
@@ -3541,6 +3745,7 @@
     },
     {
         "id": "A1-205",
+        "dex": "A1M",
         "setId": "A1",
         "number": "205",
         "name": "Ditto",
@@ -3558,6 +3763,7 @@
     },
     {
         "id": "A1-206",
+        "dex": "A1C",
         "setId": "A1",
         "number": "206",
         "name": "Eevee",
@@ -3575,6 +3781,7 @@
     },
     {
         "id": "A1-207",
+        "dex": "A1M",
         "setId": "A1",
         "number": "207",
         "name": "Eevee",
@@ -3592,6 +3799,7 @@
     },
     {
         "id": "A1-208",
+        "dex": "A1P",
         "setId": "A1",
         "number": "208",
         "name": "Eevee",
@@ -3609,6 +3817,7 @@
     },
     {
         "id": "A1-209",
+        "dex": "A1M",
         "setId": "A1",
         "number": "209",
         "name": "Porygon",
@@ -3632,6 +3841,7 @@
     },
     {
         "id": "A1-210",
+        "dex": "A1M",
         "setId": "A1",
         "number": "210",
         "name": "Aerodactyl",
@@ -3649,6 +3859,7 @@
     },
     {
         "id": "A1-211",
+        "dex": "A1P",
         "setId": "A1",
         "number": "211",
         "name": "Snorlax",
@@ -3666,6 +3877,7 @@
     },
     {
         "id": "A1-212",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "212",
         "name": "Minccino",
@@ -3683,6 +3895,7 @@
     },
     {
         "id": "A1-213",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "213",
         "name": "Cinccino",
@@ -3700,6 +3913,7 @@
     },
     {
         "id": "A1-214",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "214",
         "name": "Wooloo",
@@ -3717,6 +3931,7 @@
     },
     {
         "id": "A1-215",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "215",
         "name": "Dubwool",
@@ -3734,6 +3949,7 @@
     },
     {
         "id": "A1-216",
+        "dex": "A1P",
         "setId": "A1",
         "number": "216",
         "name": "Helix Fossil",
@@ -3752,6 +3968,7 @@
     },
     {
         "id": "A1-217",
+        "dex": "A1C",
         "setId": "A1",
         "number": "217",
         "name": "Dome Fossil",
@@ -3770,6 +3987,7 @@
     },
     {
         "id": "A1-218",
+        "dex": "A1M",
         "setId": "A1",
         "number": "218",
         "name": "Old Amber",
@@ -3788,6 +4006,7 @@
     },
     {
         "id": "A1-219",
+        "dex": "A1C",
         "setId": "A1",
         "number": "219",
         "name": "Erika",
@@ -3806,6 +4025,7 @@
     },
     {
         "id": "A1-220",
+        "dex": "A1P",
         "setId": "A1",
         "number": "220",
         "name": "Misty",
@@ -3824,6 +4044,7 @@
     },
     {
         "id": "A1-221",
+        "dex": "A1C",
         "setId": "A1",
         "number": "221",
         "name": "Blaine",
@@ -3842,6 +4063,7 @@
     },
     {
         "id": "A1-222",
+        "dex": "A1M",
         "setId": "A1",
         "number": "222",
         "name": "Koga",
@@ -3860,6 +4082,7 @@
     },
     {
         "id": "A1-223",
+        "dex": "A1M",
         "setId": "A1",
         "number": "223",
         "name": "Giovanni",
@@ -3878,6 +4101,7 @@
     },
     {
         "id": "A1-224",
+        "dex": "A1P",
         "setId": "A1",
         "number": "224",
         "name": "Brock",
@@ -3896,6 +4120,7 @@
     },
     {
         "id": "A1-225",
+        "dex": "A1C",
         "setId": "A1",
         "number": "225",
         "name": "Sabrina",
@@ -3914,6 +4139,7 @@
     },
     {
         "id": "A1-226",
+        "dex": "A1P",
         "setId": "A1",
         "number": "226",
         "name": "Lt. Surge",
@@ -3932,6 +4158,7 @@
     },
     {
         "id": "A1-227",
+        "dex": "A1M",
         "setId": "A1",
         "number": "227",
         "name": "Bulbasaur",
@@ -3949,6 +4176,7 @@
     },
     {
         "id": "A1-228",
+        "dex": "A1C",
         "setId": "A1",
         "number": "228",
         "name": "Gloom",
@@ -3966,6 +4194,7 @@
     },
     {
         "id": "A1-229",
+        "dex": "A1C",
         "setId": "A1",
         "number": "229",
         "name": "Pinsir",
@@ -3983,6 +4212,7 @@
     },
     {
         "id": "A1-230",
+        "dex": "A1C",
         "setId": "A1",
         "number": "230",
         "name": "Charmander",
@@ -4000,6 +4230,7 @@
     },
     {
         "id": "A1-231",
+        "dex": "A1C",
         "setId": "A1",
         "number": "231",
         "name": "Rapidash",
@@ -4017,6 +4248,7 @@
     },
     {
         "id": "A1-232",
+        "dex": "A1P",
         "setId": "A1",
         "number": "232",
         "name": "Squirtle",
@@ -4034,6 +4266,7 @@
     },
     {
         "id": "A1-233",
+        "dex": "A1P",
         "setId": "A1",
         "number": "233",
         "name": "Gyarados",
@@ -4051,6 +4284,7 @@
     },
     {
         "id": "A1-234",
+        "dex": "A1C",
         "setId": "A1",
         "number": "234",
         "name": "Lapras",
@@ -4068,6 +4302,7 @@
     },
     {
         "id": "A1-235",
+        "dex": "A1P",
         "setId": "A1",
         "number": "235",
         "name": "Electrode",
@@ -4085,6 +4320,7 @@
     },
     {
         "id": "A1-236",
+        "dex": "A1C",
         "setId": "A1",
         "number": "236",
         "name": "Alakazam",
@@ -4102,6 +4338,7 @@
     },
     {
         "id": "A1-237",
+        "dex": "A1C",
         "setId": "A1",
         "number": "237",
         "name": "Slowpoke",
@@ -4119,6 +4356,7 @@
     },
     {
         "id": "A1-238",
+        "dex": "A1P",
         "setId": "A1",
         "number": "238",
         "name": "Diglett",
@@ -4136,6 +4374,7 @@
     },
     {
         "id": "A1-239",
+        "dex": "A1M",
         "setId": "A1",
         "number": "239",
         "name": "Cubone",
@@ -4153,6 +4392,7 @@
     },
     {
         "id": "A1-240",
+        "dex": "A1P",
         "setId": "A1",
         "number": "240",
         "name": "Nidoqueen",
@@ -4170,6 +4410,7 @@
     },
     {
         "id": "A1-241",
+        "dex": "A1P",
         "setId": "A1",
         "number": "241",
         "name": "Nidoking",
@@ -4187,6 +4428,7 @@
     },
     {
         "id": "A1-242",
+        "dex": "A1M",
         "setId": "A1",
         "number": "242",
         "name": "Golbat",
@@ -4204,6 +4446,7 @@
     },
     {
         "id": "A1-243",
+        "dex": "A1M",
         "setId": "A1",
         "number": "243",
         "name": "Weezing",
@@ -4227,6 +4470,7 @@
     },
     {
         "id": "A1-244",
+        "dex": "A1M",
         "setId": "A1",
         "number": "244",
         "name": "Dragonite",
@@ -4244,6 +4488,7 @@
     },
     {
         "id": "A1-245",
+        "dex": "A1M",
         "setId": "A1",
         "number": "245",
         "name": "Pidgeot",
@@ -4267,6 +4512,7 @@
     },
     {
         "id": "A1-246",
+        "dex": "A1C",
         "setId": "A1",
         "number": "246",
         "name": "Meowth",
@@ -4284,6 +4530,7 @@
     },
     {
         "id": "A1-247",
+        "dex": "A1M",
         "setId": "A1",
         "number": "247",
         "name": "Ditto",
@@ -4301,6 +4548,7 @@
     },
     {
         "id": "A1-248",
+        "dex": "A1P",
         "setId": "A1",
         "number": "248",
         "name": "Eevee",
@@ -4318,6 +4566,7 @@
     },
     {
         "id": "A1-249",
+        "dex": "A1M",
         "setId": "A1",
         "number": "249",
         "name": "Porygon",
@@ -4341,6 +4590,7 @@
     },
     {
         "id": "A1-250",
+        "dex": "A1P",
         "setId": "A1",
         "number": "250",
         "name": "Snorlax",
@@ -4358,6 +4608,7 @@
     },
     {
         "id": "A1-251",
+        "dex": "A1M",
         "setId": "A1",
         "number": "251",
         "name": "Venusaur ex",
@@ -4375,6 +4626,7 @@
     },
     {
         "id": "A1-252",
+        "dex": "A1C",
         "setId": "A1",
         "number": "252",
         "name": "Exeggutor ex",
@@ -4392,6 +4644,7 @@
     },
     {
         "id": "A1-253",
+        "dex": "A1C",
         "setId": "A1",
         "number": "253",
         "name": "Charizard ex",
@@ -4409,6 +4662,7 @@
     },
     {
         "id": "A1-254",
+        "dex": "A1P",
         "setId": "A1",
         "number": "254",
         "name": "Arcanine ex",
@@ -4426,6 +4680,7 @@
     },
     {
         "id": "A1-255",
+        "dex": "A1C",
         "setId": "A1",
         "number": "255",
         "name": "Moltres ex",
@@ -4443,6 +4698,7 @@
     },
     {
         "id": "A1-256",
+        "dex": "A1P",
         "setId": "A1",
         "number": "256",
         "name": "Blastoise ex",
@@ -4460,6 +4716,7 @@
     },
     {
         "id": "A1-257",
+        "dex": "A1C",
         "setId": "A1",
         "number": "257",
         "name": "Starmie ex",
@@ -4477,6 +4734,7 @@
     },
     {
         "id": "A1-258",
+        "dex": "A1M",
         "setId": "A1",
         "number": "258",
         "name": "Articuno ex",
@@ -4494,6 +4752,7 @@
     },
     {
         "id": "A1-259",
+        "dex": "A1P",
         "setId": "A1",
         "number": "259",
         "name": "Pikachu ex",
@@ -4511,6 +4770,7 @@
     },
     {
         "id": "A1-260",
+        "dex": "A1P",
         "setId": "A1",
         "number": "260",
         "name": "Zapdos ex",
@@ -4528,6 +4788,7 @@
     },
     {
         "id": "A1-261",
+        "dex": "A1M",
         "setId": "A1",
         "number": "261",
         "name": "Gengar ex",
@@ -4551,6 +4812,7 @@
     },
     {
         "id": "A1-262",
+        "dex": "A1M",
         "setId": "A1",
         "number": "262",
         "name": "Mewtwo ex",
@@ -4568,6 +4830,7 @@
     },
     {
         "id": "A1-263",
+        "dex": "A1C",
         "setId": "A1",
         "number": "263",
         "name": "Machamp ex",
@@ -4585,6 +4848,7 @@
     },
     {
         "id": "A1-264",
+        "dex": "A1M",
         "setId": "A1",
         "number": "264",
         "name": "Marowak ex",
@@ -4602,6 +4866,7 @@
     },
     {
         "id": "A1-265",
+        "dex": "A1P",
         "setId": "A1",
         "number": "265",
         "name": "Wigglytuff ex",
@@ -4619,6 +4884,7 @@
     },
     {
         "id": "A1-266",
+        "dex": "A1C",
         "setId": "A1",
         "number": "266",
         "name": "Erika",
@@ -4637,6 +4903,7 @@
     },
     {
         "id": "A1-267",
+        "dex": "A1P",
         "setId": "A1",
         "number": "267",
         "name": "Misty",
@@ -4655,6 +4922,7 @@
     },
     {
         "id": "A1-268",
+        "dex": "A1C",
         "setId": "A1",
         "number": "268",
         "name": "Blaine",
@@ -4673,6 +4941,7 @@
     },
     {
         "id": "A1-269",
+        "dex": "A1M",
         "setId": "A1",
         "number": "269",
         "name": "Koga",
@@ -4691,6 +4960,7 @@
     },
     {
         "id": "A1-270",
+        "dex": "A1M",
         "setId": "A1",
         "number": "270",
         "name": "Giovanni",
@@ -4709,6 +4979,7 @@
     },
     {
         "id": "A1-271",
+        "dex": "A1P",
         "setId": "A1",
         "number": "271",
         "name": "Brock",
@@ -4727,6 +4998,7 @@
     },
     {
         "id": "A1-272",
+        "dex": "A1C",
         "setId": "A1",
         "number": "272",
         "name": "Sabrina",
@@ -4745,6 +5017,7 @@
     },
     {
         "id": "A1-273",
+        "dex": "A1P",
         "setId": "A1",
         "number": "273",
         "name": "Lt. Surge",
@@ -4763,6 +5036,7 @@
     },
     {
         "id": "A1-274",
+        "dex": "A1C",
         "setId": "A1",
         "number": "274",
         "name": "Moltres ex",
@@ -4780,6 +5054,7 @@
     },
     {
         "id": "A1-275",
+        "dex": "A1M",
         "setId": "A1",
         "number": "275",
         "name": "Articuno ex",
@@ -4797,6 +5072,7 @@
     },
     {
         "id": "A1-276",
+        "dex": "A1P",
         "setId": "A1",
         "number": "276",
         "name": "Zapdos ex",
@@ -4814,6 +5090,7 @@
     },
     {
         "id": "A1-277",
+        "dex": "A1M",
         "setId": "A1",
         "number": "277",
         "name": "Gengar ex",
@@ -4837,6 +5114,7 @@
     },
     {
         "id": "A1-278",
+        "dex": "A1C",
         "setId": "A1",
         "number": "278",
         "name": "Machamp ex",
@@ -4854,6 +5132,7 @@
     },
     {
         "id": "A1-279",
+        "dex": "A1P",
         "setId": "A1",
         "number": "279",
         "name": "Wigglytuff ex",
@@ -4871,6 +5150,7 @@
     },
     {
         "id": "A1-280",
+        "dex": "A1C",
         "setId": "A1",
         "number": "280",
         "name": "Charizard ex",
@@ -4888,6 +5168,7 @@
     },
     {
         "id": "A1-281",
+        "dex": "A1P",
         "setId": "A1",
         "number": "281",
         "name": "Pikachu ex",
@@ -4905,6 +5186,7 @@
     },
     {
         "id": "A1-282",
+        "dex": "A1M",
         "setId": "A1",
         "number": "282",
         "name": "Mewtwo ex",
@@ -4922,6 +5204,7 @@
     },
     {
         "id": "A1-283",
+        "dex": "",
         "setId": "A1",
         "number": "283",
         "name": "Mew",
@@ -4939,6 +5222,7 @@
     },
     {
         "id": "A1-284",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "284",
         "name": "Charizard ex",
@@ -4956,6 +5240,7 @@
     },
     {
         "id": "A1-285",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "285",
         "name": "Pikachu ex",
@@ -4973,6 +5258,7 @@
     },
     {
         "id": "A1-286",
+        "dex": "A1C,A1P,A1M",
         "setId": "A1",
         "number": "286",
         "name": "Mewtwo ex",
@@ -4990,6 +5276,7 @@
     },
     {
         "id": "PROMO-1",
+        "dex": "",
         "setId": "PROMO",
         "number": "1",
         "name": "Potion",
@@ -5008,6 +5295,7 @@
     },
     {
         "id": "PROMO-2",
+        "dex": "",
         "setId": "PROMO",
         "number": "2",
         "name": "X Speed",
@@ -5026,6 +5314,7 @@
     },
     {
         "id": "PROMO-3",
+        "dex": "",
         "setId": "PROMO",
         "number": "3",
         "name": "Hand Scope",
@@ -5044,6 +5333,7 @@
     },
     {
         "id": "PROMO-4",
+        "dex": "",
         "setId": "PROMO",
         "number": "4",
         "name": "Pokédex",
@@ -5062,6 +5352,7 @@
     },
     {
         "id": "PROMO-5",
+        "dex": "",
         "setId": "PROMO",
         "number": "5",
         "name": "Poké Ball",
@@ -5080,6 +5371,7 @@
     },
     {
         "id": "PROMO-6",
+        "dex": "",
         "setId": "PROMO",
         "number": "6",
         "name": "Red Card",
@@ -5098,6 +5390,7 @@
     },
     {
         "id": "PROMO-7",
+        "dex": "",
         "setId": "PROMO",
         "number": "7",
         "name": "Professor's Research",
@@ -5116,6 +5409,7 @@
     },
     {
         "id": "PROMO-8",
+        "dex": "",
         "setId": "PROMO",
         "number": "8",
         "name": "Pokédex",
@@ -5134,6 +5428,7 @@
     },
     {
         "id": "PROMO-009",
+        "dex": "",
         "setId": "PROMO",
         "number": "9",
         "name": "Pikachu",
@@ -5151,6 +5446,7 @@
     },
     {
         "id": "PROMO-10",
+        "dex": "",
         "setId": "PROMO",
         "number": "10",
         "name": "Mewtwo",
@@ -5168,6 +5464,7 @@
     },
     {
         "id": "PROMO-11",
+        "dex": "",
         "setId": "PROMO",
         "number": "11",
         "name": "Chansey",
@@ -5185,6 +5482,7 @@
     },
     {
         "id": "PROMO-12",
+        "dex": "",
         "setId": "PROMO",
         "number": "12",
         "name": "Meowth",
@@ -5202,6 +5500,7 @@
     },
     {
         "id": "PROMO-13",
+        "dex": "PROMOA1",
         "setId": "PROMO",
         "number": "13",
         "name": "Butterfree",
@@ -5225,6 +5524,7 @@
     },
     {
         "id": "PROMO-14",
+        "dex": "PROMOA1",
         "setId": "PROMO",
         "number": "14",
         "name": "Lapras ex",
@@ -5242,6 +5542,7 @@
     },
     {
         "id": "PROMO-15",
+        "dex": "PROMOA1",
         "setId": "PROMO",
         "number": "15",
         "name": "Pikachu",
@@ -5259,6 +5560,7 @@
     },
     {
         "id": "PROMO-16",
+        "dex": "PROMOA1",
         "setId": "PROMO",
         "number": "16",
         "name": "Clefairy",
@@ -5276,6 +5578,7 @@
     },
     {
         "id": "PROMO-17",
+        "dex": "PROMOA1",
         "setId": "PROMO",
         "number": "17",
         "name": "Mankey",
@@ -5293,6 +5596,7 @@
     },
     {
         "id": "PROMO-18",
+        "dex": "PROMOA2",
         "setId": "PROMO",
         "number": "18",
         "name": "Venusaur",
@@ -5310,6 +5614,7 @@
     },
     {
         "id": "PROMO-19",
+        "dex": "PROMOA2",
         "setId": "PROMO",
         "number": "19",
         "name": "Greninja",
@@ -5333,6 +5638,7 @@
     },
     {
         "id": "PROMO-20",
+        "dex": "PROMOA2",
         "setId": "PROMO",
         "number": "20",
         "name": "Haunter",
@@ -5350,6 +5656,7 @@
     },
     {
         "id": "PROMO-21",
+        "dex": "PROMOA2",
         "setId": "PROMO",
         "number": "21",
         "name": "Onix",
@@ -5367,6 +5674,7 @@
     },
     {
         "id": "PROMO-22",
+        "dex": "PROMOA2",
         "setId": "PROMO",
         "number": "22",
         "name": "Jigglypuff",
@@ -5384,6 +5692,7 @@
     },
     {
         "id": "PROMO-23",
+        "dex": "",
         "setId": "PROMO",
         "number": "23",
         "name": "Bulbasaur",
@@ -5401,6 +5710,7 @@
     },
     {
         "id": "PROMO-24",
+        "dex": "",
         "setId": "PROMO",
         "number": "24",
         "name": "Magnemite",
@@ -5418,6 +5728,7 @@
     },
     {
         "id": "PROMO-25",
+        "dex": "",
         "setId": "PROMO",
         "number": "25",
         "name": "Moltres ex",
@@ -5435,6 +5746,7 @@
     },
     {
         "id": "PROMO-26",
+        "dex": "",
         "setId": "PROMO",
         "number": "26",
         "name": "Pikachu",
@@ -5452,6 +5764,7 @@
     },
     {
         "id": "PROMO-27",
+        "dex": "PROMOA3",
         "setId": "PROMO",
         "number": "27",
         "name": "Snivy",
@@ -5469,6 +5782,7 @@
     },
     {
         "id": "PROMO-28",
+        "dex": "PROMOA3",
         "setId": "PROMO",
         "number": "28",
         "name": "Volcarona",
@@ -5486,6 +5800,7 @@
     },
     {
         "id": "PROMO-29",
+        "dex": "PROMOA3",
         "setId": "PROMO",
         "number": "29",
         "name": "Blastoise",
@@ -5503,6 +5818,7 @@
     },
     {
         "id": "PROMO-30",
+        "dex": "PROMOA3",
         "setId": "PROMO",
         "number": "30",
         "name": "Eevee",
@@ -5520,6 +5836,7 @@
     },
     {
         "id": "PROMO-31",
+        "dex": "PROMOA3",
         "setId": "PROMO",
         "number": "31",
         "name": "Cinccino",
@@ -5537,6 +5854,7 @@
     },
     {
         "id": "PROMO-32",
+        "dex": "",
         "setId": "PROMO",
         "number": "32",
         "name": "Charmander",
@@ -5554,6 +5872,7 @@
     },
     {
         "id": "PROMO-33",
+        "dex": "",
         "setId": "PROMO",
         "number": "33",
         "name": "Squirtle",
@@ -5571,6 +5890,7 @@
     },
     {
         "id": "A1a-001",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "1",
         "name": "Exeggcute",
@@ -5588,6 +5908,7 @@
     },
     {
         "id": "A1a-002",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "2",
         "name": "Exeggutor",
@@ -5605,6 +5926,7 @@
     },
     {
         "id": "A1a-003",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "3",
         "name": "Celebi ex",
@@ -5622,6 +5944,7 @@
     },
     {
         "id": "A1a-004",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "4",
         "name": "Snivy",
@@ -5639,6 +5962,7 @@
     },
     {
         "id": "A1a-005",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "5",
         "name": "Servine",
@@ -5656,6 +5980,7 @@
     },
     {
         "id": "A1a-006",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "6",
         "name": "Serperior",
@@ -5679,6 +6004,7 @@
     },
     {
         "id": "A1a-007",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "7",
         "name": "Morelull",
@@ -5696,6 +6022,7 @@
     },
     {
         "id": "A1a-008",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "8",
         "name": "Shiinotic",
@@ -5713,6 +6040,7 @@
     },
     {
         "id": "A1a-009",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "9",
         "name": "Dhelmise",
@@ -5730,6 +6058,7 @@
     },
     {
         "id": "A1a-010",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "10",
         "name": "Ponyta",
@@ -5747,6 +6076,7 @@
     },
     {
         "id": "A1a-011",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "11",
         "name": "Rapidash",
@@ -5764,6 +6094,7 @@
     },
     {
         "id": "A1a-012",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "12",
         "name": "Magmar",
@@ -5781,6 +6112,7 @@
     },
     {
         "id": "A1a-013",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "13",
         "name": "Larvesta",
@@ -5798,6 +6130,7 @@
     },
     {
         "id": "A1a-014",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "14",
         "name": "Volcarona",
@@ -5815,6 +6148,7 @@
     },
     {
         "id": "A1a-015",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "15",
         "name": "Salandit",
@@ -5832,6 +6166,7 @@
     },
     {
         "id": "A1a-016",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "16",
         "name": "Salazzle",
@@ -5849,6 +6184,7 @@
     },
     {
         "id": "A1a-017",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "17",
         "name": "Magikarp",
@@ -5866,6 +6202,7 @@
     },
     {
         "id": "A1a-018",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "18",
         "name": "Gyarados ex",
@@ -5883,6 +6220,7 @@
     },
     {
         "id": "A1a-019",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "19",
         "name": "Vaporeon",
@@ -5906,6 +6244,7 @@
     },
     {
         "id": "A1a-020",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "20",
         "name": "Finneon",
@@ -5923,6 +6262,7 @@
     },
     {
         "id": "A1a-021",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "21",
         "name": "Lumineon",
@@ -5940,6 +6280,7 @@
     },
     {
         "id": "A1a-022",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "22",
         "name": "Chewtle",
@@ -5957,6 +6298,7 @@
     },
     {
         "id": "A1a-023",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "23",
         "name": "Drednaw",
@@ -5974,6 +6316,7 @@
     },
     {
         "id": "A1a-024",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "24",
         "name": "Cramorant",
@@ -5991,6 +6334,7 @@
     },
     {
         "id": "A1a-025",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "25",
         "name": "Pikachu",
@@ -6008,6 +6352,7 @@
     },
     {
         "id": "A1a-026",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "26",
         "name": "Raichu",
@@ -6025,6 +6370,7 @@
     },
     {
         "id": "A1a-027",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "27",
         "name": "Electabuzz",
@@ -6042,6 +6388,7 @@
     },
     {
         "id": "A1a-028",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "28",
         "name": "Joltik",
@@ -6059,6 +6406,7 @@
     },
     {
         "id": "A1a-029",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "29",
         "name": "Galvantula",
@@ -6076,6 +6424,7 @@
     },
     {
         "id": "A1a-030",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "30",
         "name": "Dedenne",
@@ -6093,6 +6442,7 @@
     },
     {
         "id": "A1a-031",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "31",
         "name": "Mew",
@@ -6110,6 +6460,7 @@
     },
     {
         "id": "A1a-032",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "32",
         "name": "Mew ex",
@@ -6127,6 +6478,7 @@
     },
     {
         "id": "A1a-033",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "33",
         "name": "Sigilyph",
@@ -6144,6 +6496,7 @@
     },
     {
         "id": "A1a-034",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "34",
         "name": "Elgyem",
@@ -6161,6 +6514,7 @@
     },
     {
         "id": "A1a-035",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "35",
         "name": "Beheeyem",
@@ -6178,6 +6532,7 @@
     },
     {
         "id": "A1a-036",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "36",
         "name": "Flabébé",
@@ -6195,6 +6550,7 @@
     },
     {
         "id": "A1a-037",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "37",
         "name": "Floette",
@@ -6212,6 +6568,7 @@
     },
     {
         "id": "A1a-038",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "38",
         "name": "Florges",
@@ -6229,6 +6586,7 @@
     },
     {
         "id": "A1a-039",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "39",
         "name": "Swirlix",
@@ -6246,6 +6604,7 @@
     },
     {
         "id": "A1a-040",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "40",
         "name": "Slurpuff",
@@ -6263,6 +6622,7 @@
     },
     {
         "id": "A1a-041",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "41",
         "name": "Mankey",
@@ -6280,6 +6640,7 @@
     },
     {
         "id": "A1a-042",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "42",
         "name": "Primeape",
@@ -6297,6 +6658,7 @@
     },
     {
         "id": "A1a-043",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "43",
         "name": "Geodude",
@@ -6314,6 +6676,7 @@
     },
     {
         "id": "A1a-044",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "44",
         "name": "Graveler",
@@ -6331,6 +6694,7 @@
     },
     {
         "id": "A1a-045",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "45",
         "name": "Golem",
@@ -6348,6 +6712,7 @@
     },
     {
         "id": "A1a-046",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "46",
         "name": "Aerodactyl ex",
@@ -6371,6 +6736,7 @@
     },
     {
         "id": "A1a-047",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "47",
         "name": "Marshadow",
@@ -6388,6 +6754,7 @@
     },
     {
         "id": "A1a-048",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "48",
         "name": "Stonjourner",
@@ -6405,6 +6772,7 @@
     },
     {
         "id": "A1a-049",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "49",
         "name": "Koffing",
@@ -6422,6 +6790,7 @@
     },
     {
         "id": "A1a-050",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "50",
         "name": "Weezing",
@@ -6439,6 +6808,7 @@
     },
     {
         "id": "A1a-051",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "51",
         "name": "Purrloin",
@@ -6456,6 +6826,7 @@
     },
     {
         "id": "A1a-052",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "52",
         "name": "Liepard",
@@ -6473,6 +6844,7 @@
     },
     {
         "id": "A1a-053",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "53",
         "name": "Venipede",
@@ -6490,6 +6862,7 @@
     },
     {
         "id": "A1a-054",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "54",
         "name": "Whirlipede",
@@ -6507,6 +6880,7 @@
     },
     {
         "id": "A1a-055",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "55",
         "name": "Scolipede",
@@ -6524,6 +6898,7 @@
     },
     {
         "id": "A1a-056",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "56",
         "name": "Druddigon",
@@ -6547,6 +6922,7 @@
     },
     {
         "id": "A1a-057",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "57",
         "name": "Pidgey",
@@ -6564,6 +6940,7 @@
     },
     {
         "id": "A1a-058",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "58",
         "name": "Pidgeotto",
@@ -6581,6 +6958,7 @@
     },
     {
         "id": "A1a-059",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "59",
         "name": "Pidgeot ex",
@@ -6598,6 +6976,7 @@
     },
     {
         "id": "A1a-060",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "60",
         "name": "Tauros",
@@ -6615,6 +6994,7 @@
     },
     {
         "id": "A1a-061",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "61",
         "name": "Eevee",
@@ -6632,6 +7012,7 @@
     },
     {
         "id": "A1a-062",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "62",
         "name": "Chatot",
@@ -6649,6 +7030,7 @@
     },
     {
         "id": "A1a-063",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "63",
         "name": "Old Amber",
@@ -6667,6 +7049,7 @@
     },
     {
         "id": "A1a-064",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "64",
         "name": "Pokémon Flute",
@@ -6685,6 +7068,7 @@
     },
     {
         "id": "A1a-065",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "65",
         "name": "Mythical Slab",
@@ -6703,6 +7087,7 @@
     },
     {
         "id": "A1a-066",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "66",
         "name": "Budding Expeditioner",
@@ -6721,6 +7106,7 @@
     },
     {
         "id": "A1a-067",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "67",
         "name": "Blue",
@@ -6739,6 +7125,7 @@
     },
     {
         "id": "A1a-068",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "68",
         "name": "Leaf",
@@ -6757,6 +7144,7 @@
     },
     {
         "id": "A1a-069",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "69",
         "name": "Exeggutor",
@@ -6774,6 +7162,7 @@
     },
     {
         "id": "A1a-070",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "70",
         "name": "Serperior",
@@ -6797,6 +7186,7 @@
     },
     {
         "id": "A1a-071",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "71",
         "name": "Salandit",
@@ -6814,6 +7204,7 @@
     },
     {
         "id": "A1a-072",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "72",
         "name": "Vaporeon",
@@ -6837,6 +7228,7 @@
     },
     {
         "id": "A1a-073",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "73",
         "name": "Dedenne",
@@ -6854,6 +7246,7 @@
     },
     {
         "id": "A1a-074",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "74",
         "name": "Marshadow",
@@ -6871,6 +7264,7 @@
     },
     {
         "id": "A1a-075",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "75",
         "name": "Celebi ex",
@@ -6888,6 +7282,7 @@
     },
     {
         "id": "A1a-076",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "76",
         "name": "Gyarados ex",
@@ -6905,6 +7300,7 @@
     },
     {
         "id": "A1a-077",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "77",
         "name": "Mew ex",
@@ -6922,6 +7318,7 @@
     },
     {
         "id": "A1a-078",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "78",
         "name": "Aerodactyl ex",
@@ -6945,6 +7342,7 @@
     },
     {
         "id": "A1a-079",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "79",
         "name": "Pidgeot ex",
@@ -6962,6 +7360,7 @@
     },
     {
         "id": "A1a-080",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "80",
         "name": "Budding Expeditioner",
@@ -6980,6 +7379,7 @@
     },
     {
         "id": "A1a-081",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "81",
         "name": "Blue",
@@ -6998,6 +7398,7 @@
     },
     {
         "id": "A1a-082",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "82",
         "name": "Leaf",
@@ -7016,6 +7417,7 @@
     },
     {
         "id": "A1a-083",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "83",
         "name": "Mew ex",
@@ -7033,6 +7435,7 @@
     },
     {
         "id": "A1a-084",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "84",
         "name": "Aerodactyl ex",
@@ -7056,6 +7459,7 @@
     },
     {
         "id": "A1a-085",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "85",
         "name": "Celebi ex",
@@ -7073,6 +7477,7 @@
     },
     {
         "id": "A1a-086",
+        "dex": "A1a",
         "setId": "A1a",
         "number": "86",
         "name": "Mew ex",
