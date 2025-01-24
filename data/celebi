@@ -1,0 +1,733 @@
+<body class="adthrive-device-desktop">
+
+    <div id="rivalscdx-root-app"><div class="__react_component_tooltip t4267e779-9b03-4ed9-86fc-3b96d1c51223 place-top type-dark" id="t4267e779-9b03-4ed9-86fc-3b96d1c51223" data-id="tooltip"><style aria-hidden="true">
+  	.t4267e779-9b03-4ed9-86fc-3b96d1c51223 {
+	    color: #fff;
+	    background: #222;
+	    border: 1px solid transparent;
+	    border-radius: undefinedpx;
+	    padding: 8px 21px;
+  	}
+
+  	.t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-top {
+        margin-top: -10px;
+    }
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-top::before {
+        content: "";
+        background-color: inherit;
+        position: absolute;
+        z-index: 2;
+        width: 20px;
+        height: 12px;
+    }
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-top::after {
+        content: "";
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        border-top-right-radius: undefinedpx;
+        border: 1px solid transparent;
+        background-color: #222;
+        z-index: -2;
+        bottom: -6px;
+        left: 50%;
+        margin-left: -6px;
+        transform: rotate(135deg);
+    }
+
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-bottom {
+        margin-top: 10px;
+    }
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-bottom::before {
+        content: "";
+        background-color: inherit;
+        position: absolute;
+        z-index: -1;
+        width: 18px;
+        height: 10px;
+    }
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-bottom::after {
+        content: "";
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        border-top-right-radius: undefinedpx;
+        border: 1px solid transparent;
+        background-color: #222;
+        z-index: -2;
+        top: -6px;
+        left: 50%;
+        margin-left: -6px;
+        transform: rotate(45deg);
+    }
+
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-left {
+        margin-left: -10px;
+    }
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-left::before {
+        content: "";
+        background-color: inherit;
+        position: absolute;
+        z-index: -1;
+        width: 10px;
+        height: 18px;
+    }
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-left::after {
+        content: "";
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        border-top-right-radius: undefinedpx;
+        border: 1px solid transparent;
+        background-color: #222;
+        z-index: -2;
+        right: -6px;
+        top: 50%;
+        margin-top: -6px;
+        transform: rotate(45deg);
+    }
+
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-right {
+        margin-left: 10px;
+    }
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-right::before {
+        content: "";
+        background-color: inherit;
+        position: absolute;
+        z-index: -1;
+        width: 10px;
+        height: 18px;
+    }
+    .t4267e779-9b03-4ed9-86fc-3b96d1c51223.place-right::after {
+        content: "";
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        border-top-right-radius: undefinedpx;
+        border: 1px solid transparent;
+        background-color: #222;
+        z-index: -2;
+        left: -6px;
+        top: 50%;
+        margin-top: -6px;
+        transform: rotate(-135deg);
+    }
+  </style></div><div class="Toastify"></div></div>
+
+                <div data-analytics-entity-view="47" data-entity-id="128"></div>
+
+
+    <div class="global-container">
+<header class="global-header">
+    <div class="container">
+        <div class="global-header__inner">
+            <div class="global-header__menu-trigger">
+                <a class="global-header__menu-trigger-link" aria-label="Open Nav" data-bs-toggle="offcanvas" href="#mobile-menu-offcanvas" role="button" aria-controls="mobile-menu-offcanvas">
+                    <span class="global-header__menu-trigger-icon">
+                            <svg focusable="false" class="svg-icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"></path>
+
+    </svg>
+
+                    </span>
+                </a>
+            </div>
+
+            <div class="global-header__logo">
+                <a class="global-header__logo-link" href="/">
+                    <img class="global-header__logo-img d-none d-md-block" src="https://assets.pokemon-zone.com/frontend/site-images/site/logo.svg" alt="Pokémon Zone logo">
+                    <img class="global-header__logo-mobile-img d-block d-md-none" src="https://assets.pokemon-zone.com/frontend/site-images/site/logo-mobile.svg" alt="Pokémon Zone logo">
+                </a>
+            </div>
+
+            <div class="global-header__center">
+                    <div class="d-none d-lg-block h-100">
+<nav class="global-nav">
+    <div class="global-nav__list">
+
+        <div class="global-nav__item">
+            <div class="global-nav__item-label">Guides</div>
+            <ul class="global-nav__subnav">
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/events/">Event Guides</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/articles/tcg-pocket-beginners-guide/">Beginner's Guide</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/articles/tcg-pocket-in-game-economy/">In-Game Economy</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/game-guides/">All Guides</a>
+                </li>
+            </ul>
+        </div>
+        <div class="global-nav__item">
+            <a class="global-nav__link" href="/decks/">
+                Decks &amp; Meta
+            </a>
+        </div>
+        <div class="global-nav__item">
+            <a class="global-nav__link" href="/tournaments/">
+                Tournaments
+            </a>
+        </div>
+        <div class="global-nav__item">
+            <a class="global-nav__link" href="/schedule/">
+                Schedule
+            </a>
+        </div>
+        <div class="global-nav__item ">
+            <div class="global-nav__item-label">Collectors</div>
+            <ul class="global-nav__subnav">
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/collector-guides/">Collector Guides</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/articles/arts-rarities-in-tcg-pocket/">Arts &amp; Rarities</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/accessories/">Accessories</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/themed-collections/">Themed Collections</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/articles/flair-cosmetics-system-tcg-pocket/">Flair Cosmetics</a>
+                </li>
+            </ul>            
+        </div>
+        <div class="global-nav__item">
+            <div class="global-nav__item-label">Cards &amp; Sets</div>
+            <ul class="global-nav__subnav">
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/cards/advanced-search/">Advanced Search</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/cards/">All Cards</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/sets/">All Sets</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/packs/">All Packs</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/sets/a2/">Space-Time Smackdown (A2)</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/sets/a1a/">Mythical Island (A1a)</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/sets/a1/">Genetic Apex (A1)</a>
+                </li>
+                <li class="global-nav__subnav-item">
+                    <a class="global-nav__subnav-link" href="/sets/promo-a/">Promo A</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+                        <div class="js-desktop-global-search-app" data-placeholder="Search..." data-more-button-base-url="#" data-theme="dark"><div class="desktop-global-search-app"><div class="desktop-global-search-app__search"><div class="desktop-global-search-app__search-inner"></div></div><p class="desktop-global-search-app__instruction">Hit "/" to open search</p><div class="desktop-global-search-app__control desktop-global-search-app-key-listener"><svg class="svg-icon svg-icon--size-sm" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></div></div></div>
+                    </div>
+                    <div class="d-lg-none global-header__search--mobile">
+                        <div class="js-global-search-app" data-placeholder="Search..." data-more-button-base-url="#" data-enable-close-button="true" data-theme="dark" data-enable-body-overflow="true"><div class="search-box search-box--theme-dark"><form method="GET" class="search-box__form"><div class="search-box__entry"><div class="search-box__entry-input"><input type="search" name="name" class="search-box__input search-box__input--theme-dark" placeholder="Search..." autocomplete="off" value=""><div class="search-box__entry-input-control"><button class="search-box__button search-box__button--theme-dark" type="submit"><svg class="svg-icon svg-icon--size-sm" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></button></div></div></div></form></div></div>
+                    </div>
+            </div>
+
+            <div class="global-header__extras">
+                <div class="global-header__social">
+<div class="social-nav">
+    <ul class="social-nav__list">
+        <li class="social-nav__item">
+            <a class="social-nav__link" href="https://discord.com/invite/rS7WJrY8Fd" title="Discord" target="_blank" rel="noopener">
+                    <svg focusable="false" class="svg-icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M297.216 243.2c0 15.616-11.52 28.416-26.112 28.416-14.336 0-26.112-12.8-26.112-28.416s11.52-28.416 26.112-28.416c14.592 0 26.112 12.8 26.112 28.416zm-119.552-28.416c-14.592 0-26.112 12.8-26.112 28.416s11.776 28.416 26.112 28.416c14.592 0 26.112-12.8 26.112-28.416.256-15.616-11.52-28.416-26.112-28.416zM448 52.736V512c-64.494-56.994-43.868-38.128-118.784-107.776l13.568 47.36H52.48C23.552 451.584 0 428.032 0 398.848V52.736C0 23.552 23.552 0 52.48 0h343.04C424.448 0 448 23.552 448 52.736zm-72.96 242.688c0-82.432-36.864-149.248-36.864-149.248-36.864-27.648-71.936-26.88-71.936-26.88l-3.584 4.096c43.52 13.312 63.744 32.512 63.744 32.512-60.811-33.329-132.244-33.335-191.232-7.424-9.472 4.352-15.104 7.424-15.104 7.424s21.248-20.224 67.328-33.536l-2.56-3.072s-35.072-.768-71.936 26.88c0 0-36.864 66.816-36.864 149.248 0 0 21.504 37.12 78.08 38.912 0 0 9.472-11.52 17.152-21.248-32.512-9.728-44.8-30.208-44.8-30.208 3.766 2.636 9.976 6.053 10.496 6.4 43.21 24.198 104.588 32.126 159.744 8.96 8.96-3.328 18.944-8.192 29.44-15.104 0 0-12.8 20.992-46.336 30.464 7.68 9.728 16.896 20.736 16.896 20.736 56.576-1.792 78.336-38.912 78.336-38.912z"></path>
+
+    </svg>
+
+            </a>
+        </li>
+        <li class="social-nav__item">
+            <a class="social-nav__link" href="https://x.com/pokemonzone_tcg" title="X" target="_blank" rel="noopener">
+                    <svg focusable="false" class="svg-icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path>
+
+    </svg>
+
+            </a>
+        </li>
+        <li class="social-nav__item">
+            <a class="social-nav__link" href="https://www.facebook.com/pokemonzone" title="Facebook" target="_blank" rel="noopener">
+                    <svg focusable="false" class="svg-icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"></path>
+
+    </svg>
+
+            </a>
+        </li>
+        <li class="social-nav__item">
+            <a class="social-nav__link social-nav__link--youtube" href="https://www.youtube.com/@PokemonZone-TCG" title="YouTube" target="_blank" rel="noopener">
+                    <svg focusable="false" class="svg-icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path>
+
+    </svg>
+
+            </a>
+        </li>
+    </ul>
+</div>                </div>
+                <div class="global-header__user">
+                    <div class="global-header__user-inner">
+                        <div class="js-user-menu-app"><div class="user-menu"><div class="d-flex col-gap-3 align-items-center"><div class="user-menu__trigger"><div class="d-flex col-gap-2"><a href="/accounts/login/?next=/decks/celebi-ex/" rel="nofollow"><svg stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="currentColor" fill="none" class="svg-icon svg-icon--size-lg" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 20a6 6 0 0 0-12 0"></path><circle cx="12" cy="10" r="4"></circle><circle cx="12" cy="12" r="10"></circle></svg></a></div></div></div><div class="user-menu__popout"><div class="content-box content-box--big-shadow"><div class="heading-container"><div class="d-flex align-items-center col-gap-2"><div class="flex-1 minw-0px"><div class="text-overflow-ellipsis fw-bold">Unknown #</div><div><a href="/settings/">Account Settings</a></div></div><div class=""><div class="button button--inverse"><svg class="svg-icon svg-icon--size-sm" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg></div></div></div></div><div class="p-3"><div class="d-flex col-gap-2 col-gap-md-2"><div class="flex-1"><a class="d-block" href="/manual-collection/">Manual Collection</a></div></div><hr class="mt-3 mb-3"><div class="text-end"><a class="button button--danger" href="/accounts/logout/?next=/">Sign Out</a></div></div></div></div></div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="offcanvas offcanvas-start" tabindex="-1" id="mobile-menu-offcanvas" aria-labelledby="mobile-menu-offcanvas-label">
+    <div class="offcanvas-header">
+        <div class="d-flex w-100 align-items-center">
+            <div class="flex-1">
+                <a href="/">
+                    <img class="global-header__logo-img" src="https://assets.pokemon-zone.com/frontend/site-images/site/logo.svg" alt="Pokémon Zone logo">
+                </a>
+            </div>
+            <div>
+                <div type="button" class="p-3 cursor-pointer d-flex align-items-center justify-content-center" data-bs-dismiss="offcanvas" aria-label="Close">
+                        <svg focusable="false" class="svg-icon svg-icon--size-sm" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path>
+
+    </svg>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="offcanvas-body">
+        <div class="d-flex flex-align-start flex-column h-100">
+            <div class="h-100 mb-auto overflow-y-auto">
+
+                <nav class="global-mobile-nav">
+                    <div class="global-mobile-nav__item">
+                        <a class="global-mobile-nav__link" href="/cards/">
+                            Cards
+                        </a>
+                    </div>
+                    <div class="global-mobile-nav__item">
+                        <a class="global-mobile-nav__link" href="/schedule/">
+                            Schedule
+                        </a>
+                    </div>
+                    <div class="global-mobile-nav__item">
+                        <a class="global-mobile-nav__link" href="/events/">
+                            Event Guides
+                        </a>
+                    </div>
+                    <div class="global-mobile-nav__item">
+                        <a class="global-mobile-nav__link" href="/sets/a2/">
+                            Space-Time Smackdown (A2)
+                        </a>
+                    </div>
+                    <div class="global-mobile-nav__item">
+                        <div class="global-mobile-nav__item-label" data-bs-toggle="collapse" href="#gmn-primary" role="button" aria-expanded="false" aria-controls="gmn-primary">
+                            <div class="global-mobile-nav__item-label-text">Guides</div>
+                            <div class="global-mobile-nav__item-label-icon">
+                                    <svg focusable="false" class="svg-icon svg-icon--size-sm" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+
+    </svg>
+
+                            </div>
+                        </div>
+                        <ul class="global-mobile-nav__subnav collapse" id="gmn-primary">
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/events/">Event Guides</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/articles/tcg-pocket-beginners-guide-ga/">Beginner's Guide</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/articles/tcg-pocket-in-game-economy/">In-Game Economy</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/game-guides/">All Guides</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="global-mobile-nav__item">
+                        <a class="global-mobile-nav__link" href="/decks/">
+                            Decks &amp; Meta
+                        </a>
+                    </div>
+                    <div class="global-mobile-nav__item">
+                        <a class="global-mobile-nav__link" href="/tournaments/">
+                            Tournaments
+                        </a>
+                    </div>
+                    <div class="global-mobile-nav__item ">
+                        <div class="global-mobile-nav__item-label" data-bs-toggle="collapse" href="#gmn-collectors" role="button" aria-expanded="false" aria-controls="gmn-collectors">
+                            <div class="global-mobile-nav__item-label-text">Collectors</div>
+                            <div class="global-mobile-nav__item-label-icon">
+                                    <svg focusable="false" class="svg-icon svg-icon--size-sm" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+
+    </svg>
+
+                            </div>
+                        </div>
+                        <ul class="global-mobile-nav__subnav collapse" id="gmn-collectors">
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/collector-guides/">Collector Guides</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/articles/arts-rarities-in-tcg-pocket/">Arts &amp; Rarities</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/accessories/">Accessories</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/themed-collections/">Themed Collections</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/articles/flair-cosmetics-system-tcg-pocket/">Flair Cosmetics</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="global-mobile-nav__item">
+                        <div class="global-mobile-nav__item-label" data-bs-toggle="collapse" href="#gmn-cards" role="button" aria-expanded="false" aria-controls="gmn-cards">
+                            <div class="global-mobile-nav__item-label-text">Cards &amp; Sets</div>
+                            <div class="global-mobile-nav__item-label-icon">
+                                    <svg focusable="false" class="svg-icon svg-icon--size-sm" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+
+    </svg>
+
+                            </div>
+                        </div>
+                        <ul class="global-mobile-nav__subnav collapse" id="gmn-cards">
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/cards/advanced-search/">Advanced Search</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/cards/">All Cards</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/sets/">All Sets</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/packs/">All Packs</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/sets/a1a/">Mythical Island (A1a)</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/sets/a1/">Genetic Apex (A1)</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="/sets/promo-a/">Promo A</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="global-mobile-nav__item">
+                        <div class="global-mobile-nav__item-label" data-bs-toggle="collapse" href="#gmn-other" role="button" aria-expanded="false" aria-controls="gmn-other">
+                            <div class="global-mobile-nav__item-label-text">Other Websites</div>
+                            <div class="global-mobile-nav__item-label-icon">
+                                    <svg focusable="false" class="svg-icon svg-icon--size-sm" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+
+    </svg>
+
+                            </div>
+                        </div>
+                        <ul class="global-mobile-nav__subnav collapse" id="gmn-other">
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="https://swgoh.gg/" target="_blank">swgoh.gg - Star Wars: Galaxy of Heroes</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="https://snap.fan/" target="_blank">snap.fan - Marvel Snap</a>
+                            </li>
+                            <li class="global-mobile-nav__subnav-item">
+                                <a class="global-mobile-nav__subnav-link" href="https://swu.codex.gg/" target="_blank">SWU Codex - Star Wars Unlimited</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+
+                <hr class="my-4">
+
+<div class="social-nav">
+    <ul class="social-nav__list">
+        <li class="social-nav__item">
+            <a class="social-nav__link" href="https://discord.com/invite/rS7WJrY8Fd" title="Discord" target="_blank" rel="noopener">
+                    <svg focusable="false" class="svg-icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M297.216 243.2c0 15.616-11.52 28.416-26.112 28.416-14.336 0-26.112-12.8-26.112-28.416s11.52-28.416 26.112-28.416c14.592 0 26.112 12.8 26.112 28.416zm-119.552-28.416c-14.592 0-26.112 12.8-26.112 28.416s11.776 28.416 26.112 28.416c14.592 0 26.112-12.8 26.112-28.416.256-15.616-11.52-28.416-26.112-28.416zM448 52.736V512c-64.494-56.994-43.868-38.128-118.784-107.776l13.568 47.36H52.48C23.552 451.584 0 428.032 0 398.848V52.736C0 23.552 23.552 0 52.48 0h343.04C424.448 0 448 23.552 448 52.736zm-72.96 242.688c0-82.432-36.864-149.248-36.864-149.248-36.864-27.648-71.936-26.88-71.936-26.88l-3.584 4.096c43.52 13.312 63.744 32.512 63.744 32.512-60.811-33.329-132.244-33.335-191.232-7.424-9.472 4.352-15.104 7.424-15.104 7.424s21.248-20.224 67.328-33.536l-2.56-3.072s-35.072-.768-71.936 26.88c0 0-36.864 66.816-36.864 149.248 0 0 21.504 37.12 78.08 38.912 0 0 9.472-11.52 17.152-21.248-32.512-9.728-44.8-30.208-44.8-30.208 3.766 2.636 9.976 6.053 10.496 6.4 43.21 24.198 104.588 32.126 159.744 8.96 8.96-3.328 18.944-8.192 29.44-15.104 0 0-12.8 20.992-46.336 30.464 7.68 9.728 16.896 20.736 16.896 20.736 56.576-1.792 78.336-38.912 78.336-38.912z"></path>
+
+    </svg>
+
+            </a>
+        </li>
+        <li class="social-nav__item">
+            <a class="social-nav__link" href="https://x.com/pokemonzone_tcg" title="X" target="_blank" rel="noopener">
+                    <svg focusable="false" class="svg-icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path>
+
+    </svg>
+
+            </a>
+        </li>
+        <li class="social-nav__item">
+            <a class="social-nav__link" href="https://www.facebook.com/pokemonzone" title="Facebook" target="_blank" rel="noopener">
+                    <svg focusable="false" class="svg-icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"></path>
+
+    </svg>
+
+            </a>
+        </li>
+        <li class="social-nav__item">
+            <a class="social-nav__link social-nav__link--youtube" href="https://www.youtube.com/@PokemonZone-TCG" title="YouTube" target="_blank" rel="noopener">
+                    <svg focusable="false" class="svg-icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                <path class="svg-icon__fill" fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path>
+
+    </svg>
+
+            </a>
+        </li>
+    </ul>
+</div>            </div>
+
+            <div class="">
+                <div style="height: 60px"></div>
+            </div>
+        </div>
+
+    </div>
+</div></header>            <header class="global-page-header ">
+                <div class="container my-3">
+                    <ul class="breadcrumbs mb-3">                        <li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/">Home</a></li>                        <li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/decks/">Decks</a></li>                        <li class="breadcrumbs__item">Celebi ex deck</li>                </ul>
+                </div>
+            </header>
+        <main class="global-content">
+            <div class="container">
+                <div class="global-content__content">
+    <div class="l-article ">
+            <div class="l-article__toc">
+                <div class="l-article__toc-sticky js-article-content-menu-app"><div class="article-content-menu article-content-menu--is-open article-content-menu--is-desktop"><div class="content-box"><div class="article-content-menu__header"><div class="article-content-menu__title">Table of Contents</div><div class="article-content-menu__trigger"><svg class="svg-icon svg-icon--size-sm" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></div></div><div class="article-content-menu__menu"><ol class="article-content-menu__list"><li><a href="#header-0" class="link-inverse">Celebi ex Serperior - Stock decklist</a></li><li><a href="#header-1" class="link-inverse">Celebi ex - Exeggutor ex variant</a></li><li><a href="#header-2" class="link-inverse">Celebi ex - Lilligant variant</a></li><li><a href="#header-3" class="link-inverse">Weaknesses</a></li></ol></div></div></div></div>
+            </div>
+        <div class="l-article__main">
+            <div class="article-detail">
+                <div class="heading-container heading-container--strong-shadow">
+                    <h1>Celebi ex deck</h1>
+                </div>
+
+                <div class="js-article-content-menu-app__menu my-2"><div class="article-content-menu article-content-menu--is-open article-content-menu--is-mobile"><div class="content-box"><div class="article-content-menu__header"><div class="article-content-menu__title">Table of Contents</div><div class="article-content-menu__trigger"><svg class="svg-icon svg-icon--size-sm" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></div></div><div class="article-content-menu__menu"><ol class="article-content-menu__list"><li><a href="#header-0" class="link-inverse">Celebi ex Serperior - Stock decklist</a></li><li><a href="#header-1" class="link-inverse">Celebi ex - Exeggutor ex variant</a></li><li><a href="#header-2" class="link-inverse">Celebi ex - Lilligant variant</a></li><li><a href="#header-3" class="link-inverse">Weaknesses</a></li></ol></div></div></div></div>
+
+
+                    <article class="article-detail__body mt-2 content-box p-3 js-article-content-menu-app__article">
+                        <div class="featured-article-preview__meta mb-3">
+                            <div class="featured-article-preview__meta-item">
+                                    By Pokémon Zone
+                            </div>
+                                <div class="featured-article-preview__meta-item">
+                                        <time datetime="2024-12-27T22:25:12.485864+00:00" title="2024-12-27T22:25:12.485864+00:00">Dec 27, 2024</time>
+
+                                </div>
+                        </div>
+                                    <div class="media-block media-block--25">
+                <div class="media-block__primary">
+                    <p data-block-key="yc2oc">Was a Basic Pokémon ex all that <span class="energy-text energy-text--type-grass"></span> needed? With the release of Mythical Island, <b>Celebi ex is already positioning itself as a top contender</b> of the metagame. Boasting a respectable <b>130 HP</b>, Celebi ex’s <b>Powerful Bloom</b> attack flips coins equal to the number of Energy attached to it, dealing <b>50 damage per heads</b>. While reminiscent of Marowak ex’s Bonemerang, Celebi ex has the advantage of not needing to evolve.</p><p data-block-key="dgtjj">The attack truly blossoms when supported by <b>Serperior’s Jungle Totem</b> ability, which doubles the value of all <span class="energy-text energy-text--type-grass"></span> Energy. Not only it means that Celebi can attack with just a single <span class="energy-text energy-text--type-grass"></span> attack, it also can deal up to 200 damage with 2 <span class="energy-text energy-text--type-grass"></span> Energy.</p><p data-block-key="549o4">This potential for damage growth makes it one of the most threatening attackers in the format, as adding more Energy consistently increases its power and reliability.</p>
+                </div>
+                <div class="media-block__aside">
+                    <a href="/cards/a1a/3/celebi-ex/">
+                            <div class="game-card-image  game-card-image--shadow-small" data-pokemon-card-tooltip-app="PK_10_002170_00">
+        <div class="game-card-image__inner">
+                <img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002170_00_CELEBIex_RR.webp?width=25&amp;quality=100" alt="Celebi ex Double Rare - Mythical Island (A1a) #3" loading="lazy">
+        </div>
+    </div>
+
+                    </a>
+                </div>
+    </div>
+
+        <h2 data-block-key="w09t1" id="header-0">Celebi ex Serperior - Stock decklist</h2><p data-block-key="98aj0"></p><div>
+        <div class="deck_performance__latest_deck">
+            Last Played By Ursiidae #5 5-1-0 <br>👑 Pokémon Pocket Italia 👑 Speed Tour #2
+        </div>
+        <div class="widget-deck-embed js-deck-embed-app" data-deck-hash="TR_90_000040_00-2,TR_90_000030_00-2,TR_90_000020_00-2,TR_90_000010_00-1,TR_10_000170_00-2,TR_10_000110_00-2,PK_10_002230_00-1,PK_10_002200_00-2,PK_10_002190_00-2,PK_10_002180_00-2,PK_10_002170_00-2"><div class="deck-embed-app"><div class="deck-embed"><div class="deck-summary"><div class="deck-summary__actions"></div><div class="card-grid card-grid--size-3-6"><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/4/snivy/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002180_00_TSUTARJA_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/5/servine/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002190_00_JANOVY_U.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/6/serperior/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002200_00_JALORDA_R.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/9/dhelmise/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002230_00_DADARIN_U.webp?width=300&amp;quality=80" alt=""></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/3/celebi-ex/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002170_00_CELEBIex_RR.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/promo-a/5/poke-ball/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000030_00_MONSTERBALL_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/promo-a/1/potion/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000010_00_KIZUGUSURI_C.webp?width=300&amp;quality=80" alt=""></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/promo-a/2/x-speed/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000020_00_SPEEDER_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1/219/erika/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_000110_00_ERIKA_U.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/promo-a/7/professors-research/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000040_00_HAKASENOKENKYU_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1/225/sabrina/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_000170_00_NATSUME_U.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div></div></div><div class="deck-embed__requirements"><div class="deck-embed__requirements-group"><div class="fw-bold mb-2">Rarity Requirements</div><div class="deck-embed__rarities"><div class="deck-embed__rarity"><div class="deck-embed__rarity-icon"><span class="rarity-icon " style="height: 24px;"><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span></span></div><div class="deck-embed__rarity-names"><a class="link-inverse" href="/cards/a1a/3/celebi-ex/">Celebi ex</a></div></div><div class="deck-embed__rarity"><div class="deck-embed__rarity-icon"><span class="rarity-icon " style="height: 24px;"><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span></span></div><div class="deck-embed__rarity-names"><a class="link-inverse" href="/cards/a1a/6/serperior/">Serperior</a></div></div><div class="deck-embed__rarity"><div class="deck-embed__rarity-icon"><span class="rarity-icon " style="height: 24px;"><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span></span></div><div class="deck-embed__rarity-names"><a class="link-inverse" href="/cards/a1a/9/dhelmise/">Dhelmise</a>, <a class="link-inverse" href="/cards/a1/219/erika/">Erika</a>, <a class="link-inverse" href="/cards/a1/225/sabrina/">Sabrina</a>, <a class="link-inverse" href="/cards/a1a/5/servine/">Servine</a></div></div></div></div><div class="deck-embed__requirements-group"><div class="fw-bold mb-2">Booster Pack Requirements</div><div class="deck-embed__packs"><div class="deck-embed__pack"><div class="deck-embed__pack-image"><img class="deck-embed__pack-img" src="https://assets.pokemon-zone.com/game-assets/UI/Textures/System/PackSku/EXPANSION_PACK_A1_100020_LIZARDON_en_US.webp" alt="Charizard Pack"></div><div class="deck-embed__pack-names"><a class="link-inverse" href="/cards/a1/219/erika/">Erika</a>, <a class="link-inverse" href="/cards/a1/225/sabrina/">Sabrina</a></div></div><div class="deck-embed__pack"><div class="deck-embed__pack-image"><img class="deck-embed__pack-img" src="https://assets.pokemon-zone.com/game-assets/UI/Textures/System/Exp/LOGO_expansion_A1a_en_US.webp" alt="Mythical Island"></div><div class="deck-embed__pack-names"><a class="link-inverse" href="/cards/a1a/3/celebi-ex/">Celebi ex</a>, <a class="link-inverse" href="/cards/a1a/9/dhelmise/">Dhelmise</a>, <a class="link-inverse" href="/cards/a1a/6/serperior/">Serperior</a>, <a class="link-inverse" href="/cards/a1a/5/servine/">Servine</a></div></div></div></div></div></div></div></div>
+
+</div><p></p><p data-block-key="3se5i">The deck is still being refined as players experiment to optimize its performance. Alongside the usual staples, <b>Dhelmise</b> can find its place as a one, even two-of. Dhelmise resists Pikachu ex’s <b>Circle Circuit</b> (unless boosted by Giovanni) and serves as a strong utility attacker. Its <b>Energy Whip</b> attack benefits from Jungle Totem’s boost as soon as it has 2 <span class="energy-text energy-text--type-grass"></span> attached. In the early game, Dhelmise acts as a durable damage sponge, while later it transitions into a reliable one-point attacker.</p>
+        <h2 data-block-key="w09t1" id="header-1">Celebi ex - Exeggutor ex variant</h2><p data-block-key="ct638"></p><div>
+        <div class="deck_performance__latest_deck">
+            Last Played By awa #1 7-1-0 <br>PokéMike - Pocket Tournament #1
+        </div>
+        <div class="widget-deck-embed js-deck-embed-app" data-deck-hash="TR_90_000040_00-2,TR_90_000030_00-2,TR_90_000020_00-2,TR_10_000170_00-1,TR_10_000110_00-2,PK_10_002200_00-2,PK_10_002190_00-2,PK_10_002180_00-1,PK_10_002170_00-2,PK_10_000230_00-2,PK_10_000210_00-2"><div class="deck-embed-app"><div class="deck-embed"><div class="deck-summary"><div class="deck-summary__actions"></div><div class="card-grid card-grid--size-3-6"><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1/21/exeggcute/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_000210_00_TAMATAMA_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/4/snivy/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002180_00_TSUTARJA_C.webp?width=300&amp;quality=80" alt=""></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/5/servine/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002190_00_JANOVY_U.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/6/serperior/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002200_00_JALORDA_R.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/3/celebi-ex/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002170_00_CELEBIex_RR.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1/23/exeggutor-ex/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_000230_00_NASSYex_RR.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/promo-a/5/poke-ball/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000030_00_MONSTERBALL_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/promo-a/2/x-speed/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000020_00_SPEEDER_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1/219/erika/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_000110_00_ERIKA_U.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/promo-a/7/professors-research/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000040_00_HAKASENOKENKYU_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1/225/sabrina/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_000170_00_NATSUME_U.webp?width=300&amp;quality=80" alt=""></div></a></div></div></div></div></div><div class="deck-embed__requirements"><div class="deck-embed__requirements-group"><div class="fw-bold mb-2">Rarity Requirements</div><div class="deck-embed__rarities"><div class="deck-embed__rarity"><div class="deck-embed__rarity-icon"><span class="rarity-icon " style="height: 24px;"><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span></span></div><div class="deck-embed__rarity-names"><a class="link-inverse" href="/cards/a1a/3/celebi-ex/">Celebi ex</a>, <a class="link-inverse" href="/cards/a1/23/exeggutor-ex/">Exeggutor ex</a></div></div><div class="deck-embed__rarity"><div class="deck-embed__rarity-icon"><span class="rarity-icon " style="height: 24px;"><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span></span></div><div class="deck-embed__rarity-names"><a class="link-inverse" href="/cards/a1a/6/serperior/">Serperior</a></div></div><div class="deck-embed__rarity"><div class="deck-embed__rarity-icon"><span class="rarity-icon " style="height: 24px;"><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span></span></div><div class="deck-embed__rarity-names"><a class="link-inverse" href="/cards/a1/219/erika/">Erika</a>, <a class="link-inverse" href="/cards/a1/225/sabrina/">Sabrina</a>, <a class="link-inverse" href="/cards/a1a/5/servine/">Servine</a></div></div></div></div><div class="deck-embed__requirements-group"><div class="fw-bold mb-2">Booster Pack Requirements</div><div class="deck-embed__packs"><div class="deck-embed__pack"><div class="deck-embed__pack-image"><img class="deck-embed__pack-img" src="https://assets.pokemon-zone.com/game-assets/UI/Textures/System/PackSku/EXPANSION_PACK_A1_100020_LIZARDON_en_US.webp" alt="Charizard Pack"></div><div class="deck-embed__pack-names"><a class="link-inverse" href="/cards/a1/219/erika/">Erika</a>, <a class="link-inverse" href="/cards/a1/23/exeggutor-ex/">Exeggutor ex</a>, <a class="link-inverse" href="/cards/a1/225/sabrina/">Sabrina</a></div></div><div class="deck-embed__pack"><div class="deck-embed__pack-image"><img class="deck-embed__pack-img" src="https://assets.pokemon-zone.com/game-assets/UI/Textures/System/Exp/LOGO_expansion_A1a_en_US.webp" alt="Mythical Island"></div><div class="deck-embed__pack-names"><a class="link-inverse" href="/cards/a1a/3/celebi-ex/">Celebi ex</a>, <a class="link-inverse" href="/cards/a1a/6/serperior/">Serperior</a>, <a class="link-inverse" href="/cards/a1a/5/servine/">Servine</a></div></div></div></div></div></div></div></div>
+
+</div><p></p><p data-block-key="98aj0"><b>Exeggutor ex</b> has amazing qualities that made it one of the prime <span class="energy-text energy-text--type-grass"></span> type Pokémon during the Genetic Apex format. This variant leverages Exeggutor ex’s hefty bulk and early damage output to handle faster decks like Pikachu ex while setting up Celebi ex or evolving the Snivy line into Serperior.</p><p data-block-key="13ve6">Exeggutor ex’s high retreat cost is less of an issue thanks to Serperior’s Jungle Totem, which makes retreating cheaper by doubling <span class="energy-text energy-text--type-grass"></span> Energy. Combined with <b>X Speed</b>, it can retreat with just one energy, just in time to deny your opponent points.</p><p data-block-key="anvtb">This variant often includes <b>2 Erika</b>, making it even harder for your opponent to claim points. Adding the early game control element that the base engine tends to lack, this variant is one of the most promising in the early Mythical Island meta.</p><p data-block-key="noej">Players are also experimenting with the new <b>Exeggutor from Mythical Island</b>. Although energy-hungry, its <b>Psychic</b> attack can one-shot many charged Pokémon such as Pikachu ex, Wigglytuff ex, and opposing Celebi when Serperior doubles their energy.</p>
+        <h2 data-block-key="w09t1" id="header-2">Celebi ex - Lilligant variant</h2><p data-block-key="4mv37"></p><div>
+        <div class="deck_performance__latest_deck">
+            Last Played By BoostedAvian #6 7-1-0 <br>Christmas Cup (Flash Friday 1)
+        </div>
+        <div class="widget-deck-embed js-deck-embed-app" data-deck-hash="TR_90_000040_00-2,TR_90_000030_00-2,TR_90_000020_00-2,TR_10_000110_00-2,PK_10_002200_00-2,PK_10_002190_00-2,PK_10_002180_00-2,PK_10_002170_00-2,PK_10_000300_00-2,PK_10_000290_00-2"><div class="deck-embed-app"><div class="deck-embed"><div class="deck-summary"><div class="deck-summary__actions"></div><div class="card-grid card-grid--size-3-6"><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/4/snivy/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002180_00_TSUTARJA_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/5/servine/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002190_00_JANOVY_U.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/6/serperior/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002200_00_JALORDA_R.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1/29/petilil/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_000290_00_CHURINE_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1/30/lilligant/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_000300_00_DREDEAR_U.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1a/3/celebi-ex/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002170_00_CELEBIex_RR.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/promo-a/5/poke-ball/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000030_00_MONSTERBALL_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/promo-a/2/x-speed/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000020_00_SPEEDER_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/a1/219/erika/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_000110_00_ERIKA_U.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div><div class="card-grid__cell"><div class="card-grid__cell-card"><div class="game-card-image game-card-image--shadow-small"><a href="/cards/promo-a/7/professors-research/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000040_00_HAKASENOKENKYU_C.webp?width=300&amp;quality=80" alt=""><div class="game-card-image__count">2</div></div></a></div></div></div></div></div><div class="deck-embed__requirements"><div class="deck-embed__requirements-group"><div class="fw-bold mb-2">Rarity Requirements</div><div class="deck-embed__rarities"><div class="deck-embed__rarity"><div class="deck-embed__rarity-icon"><span class="rarity-icon " style="height: 24px;"><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span></span></div><div class="deck-embed__rarity-names"><a class="link-inverse" href="/cards/a1a/3/celebi-ex/">Celebi ex</a></div></div><div class="deck-embed__rarity"><div class="deck-embed__rarity-icon"><span class="rarity-icon " style="height: 24px;"><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span></span></div><div class="deck-embed__rarity-names"><a class="link-inverse" href="/cards/a1a/6/serperior/">Serperior</a></div></div><div class="deck-embed__rarity"><div class="deck-embed__rarity-icon"><span class="rarity-icon " style="height: 24px;"><span class="rarity-icon__icon rarity-icon__icon--diamond"></span><span class="rarity-icon__icon rarity-icon__icon--diamond"></span></span></div><div class="deck-embed__rarity-names"><a class="link-inverse" href="/cards/a1/219/erika/">Erika</a>, <a class="link-inverse" href="/cards/a1/30/lilligant/">Lilligant</a>, <a class="link-inverse" href="/cards/a1a/5/servine/">Servine</a></div></div></div></div><div class="deck-embed__requirements-group"><div class="fw-bold mb-2">Booster Pack Requirements</div><div class="deck-embed__packs"><div class="deck-embed__pack"><div class="deck-embed__pack-image"><img class="deck-embed__pack-img" src="https://assets.pokemon-zone.com/game-assets/UI/Textures/System/PackSku/EXPANSION_PACK_A1_100020_LIZARDON_en_US.webp" alt="Charizard Pack"></div><div class="deck-embed__pack-names"><a class="link-inverse" href="/cards/a1/219/erika/">Erika</a></div></div><div class="deck-embed__pack"><div class="deck-embed__pack-image"><img class="deck-embed__pack-img" src="https://assets.pokemon-zone.com/game-assets/UI/Textures/System/Exp/LOGO_expansion_A1_en_US.webp" alt="Genetic Apex"></div><div class="deck-embed__pack-names"><a class="link-inverse" href="/cards/a1/30/lilligant/">Lilligant</a></div></div><div class="deck-embed__pack"><div class="deck-embed__pack-image"><img class="deck-embed__pack-img" src="https://assets.pokemon-zone.com/game-assets/UI/Textures/System/Exp/LOGO_expansion_A1a_en_US.webp" alt="Mythical Island"></div><div class="deck-embed__pack-names"><a class="link-inverse" href="/cards/a1a/3/celebi-ex/">Celebi ex</a>, <a class="link-inverse" href="/cards/a1a/6/serperior/">Serperior</a>, <a class="link-inverse" href="/cards/a1a/5/servine/">Servine</a></div></div></div></div></div></div></div></div>
+
+</div><p></p><p data-block-key="98aj0">Celebi ex's strength increases with the more Energy it has, so why not accelerate the process? This variant pairs Celebi ex with <b>Lilligant</b>, whose <b>Leaf Supply</b> attack attaches a <span class="energy-text energy-text--type-grass"></span> Energy to a Benched <span class="energy-text energy-text--type-grass"></span> Pokémon after dealing 50 damage. If Lilligant comes online by turn 2, it can make Celebi ex's Powerful Bloom grow more quickly into big proportions.</p>
+        <h2 data-block-key="w09t1" id="header-3">Weaknesses</h2><ul><li data-block-key="80ri">Like all attacks relying on coin flips, <b>Celebi ex</b>’s damage is unreliable. Its highs can be incredible, but its lows can feel disastrous.</li><li data-block-key="diiln">The deck’s Pokémon generally have low HP, with most sitting at <b>130 HP or below</b>. Until Serperior evolves, the entire Snivy line is vulnerable to Pikachu ex’s <b>Circle Circuit</b>, and no Pokémon in the deck can survive a <b>Psydrive</b> from Mewtwo ex.</li></ul>
+
+                    </article>
+
+    <div class="mt-3">
+        <h2>Latest Articles about Celebi ex deck</h2>
+         <div class="featured-article-panel featured-article-panel--small">
+                    <div class="featured-article-panel__preview">
+                            <article class="featured-article-preview">
+        <a href="/articles/tcg-pocket-mythical-island-tier-list-top-player-5/" class="featured-article-preview__poster">
+                <img class="featured-article-preview__poster-img" src="https://media.pokemon-zone.com/news/original_images/tier-list-tcg-pocket-mythical-island-format.webp?width=400&amp;height=300&amp;quality=80" alt="TCG Pocket - Mythical Island Tier list feat. Top Tier Players #5">
+        </a>
+            <div class="featured-article-preview__category">
+                <div class="article-callout-category article-callout-category--tier-list">
+                    Tier List
+                </div>
+            </div>
+        <div class="featured-article-preview__primary">
+            <h3 class="featured-article-preview__title">
+                <a href="/articles/tcg-pocket-mythical-island-tier-list-top-player-5/" class="featured-article-preview__link link-inverse">
+                    TCG Pocket - Mythical Island Tier list feat. Top Tier Players #5
+                </a>
+            </h3>
+        </div>
+    </article>
+
+                    </div>
+                    <div class="featured-article-panel__preview">
+                            <article class="featured-article-preview">
+        <a href="/articles/tournament-reports-pokemon-tcg-pocket-week-11/" class="featured-article-preview__poster">
+                <img class="featured-article-preview__poster-img" src="https://media.pokemon-zone.com/news/original_images/pokemon-tcg-pocket-tournament-report-11.webp?width=400&amp;height=300&amp;quality=80" alt="Tournament Reports - Pokémon TCG Pocket week 11">
+        </a>
+            <div class="featured-article-preview__category">
+                <div class="article-callout-category article-callout-category--tournaments">
+                    Tournaments
+                </div>
+            </div>
+        <div class="featured-article-preview__primary">
+            <h3 class="featured-article-preview__title">
+                <a href="/articles/tournament-reports-pokemon-tcg-pocket-week-11/" class="featured-article-preview__link link-inverse">
+                    Tournament Reports - Pokémon TCG Pocket week 11
+                </a>
+            </h3>
+        </div>
+    </article>
+
+                    </div>
+                    <div class="featured-article-panel__preview">
+                            <article class="featured-article-preview">
+        <a href="/articles/tournament-reports-pokemon-tcg-pocket-week-10/" class="featured-article-preview__poster">
+                <img class="featured-article-preview__poster-img" src="https://media.pokemon-zone.com/news/original_images/tcg-pocket-tournament-report-week-10.webp?width=400&amp;height=300&amp;quality=80" alt="Tournament Reports - Pokémon TCG Pocket week 10">
+        </a>
+            <div class="featured-article-preview__category">
+                <div class="article-callout-category article-callout-category--tournaments">
+                    Tournaments
+                </div>
+            </div>
+        <div class="featured-article-preview__primary">
+            <h3 class="featured-article-preview__title">
+                <a href="/articles/tournament-reports-pokemon-tcg-pocket-week-10/" class="featured-article-preview__link link-inverse">
+                    Tournament Reports - Pokémon TCG Pocket week 10
+                </a>
+            </h3>
+        </div>
+    </article>
+
+                    </div>
+            </div>            
+        </div>
+    <div class="mt-3">
+        <h2>Other Meta Decks in Pokemon TCG Pocket</h2>
+        <div class="meta-deck-listing__decks">
+                    <div class="meta-deck-link " style="--meta-deck-link--icon-url: url(https://s3.amazonaws.com/media.pokemon-zone.com/news/original_images/fighting-toolbox-deck.webp)">
+        <a class="meta-deck-link__link" href="/decks/fighting-toolbox/"></a>
+        <div class="meta-deck-link__icon"></div>
+        <h3 class="meta-deck-link__label">Fighting Toolbox</h3>
+    </div>
+
+                    <div class="meta-deck-link " style="--meta-deck-link--icon-url: url(https://s3.amazonaws.com/media.pokemon-zone.com/news/original_images/pikachu-ex-deck-square.webp)">
+        <a class="meta-deck-link__link" href="/decks/pikachu-ex/"></a>
+        <div class="meta-deck-link__icon"></div>
+        <h3 class="meta-deck-link__label">Pikachu ex</h3>
+    </div>
+
+                    <div class="meta-deck-link " style="--meta-deck-link--icon-url: url(https://s3.amazonaws.com/media.pokemon-zone.com/news/original_images/arcanine-ex-deck.webp)">
+        <a class="meta-deck-link__link" href="/decks/arcanine-ex/"></a>
+        <div class="meta-deck-link__icon"></div>
+        <h3 class="meta-deck-link__label">Arcanine ex</h3>
+    </div>
+
+                    <div class="meta-deck-link " style="--meta-deck-link--icon-url: url(https://s3.amazonaws.com/media.pokemon-zone.com/news/original_images/exeggutor-ex.webp)">
+        <a class="meta-deck-link__link" href="/decks/exeggutor-ex/"></a>
+        <div class="meta-deck-link__icon"></div>
+        <h3 class="meta-deck-link__label">Exeggutor ex</h3>
+    </div>
+
+        </div>
+    </div>
+
+            </div>
+
+            <hr class="my-5">
+
+            <div class="mt-5" id="comments">
+                <div class="js-comments-app" data-entity-id="128" data-content-type-id="47"><div><div class="heading-container mb-3"><h2 class="">Comments</h2></div><div class="loading-placeholder" style="height: 15rem;"><div class="loading-placeholder__content"><div class="loading-placeholder__icon"><svg preserveAspectRatio="xMidYMid" class="svg-icon svg-icon--size-xl" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect x="17.5" y="30" width="15" height="40" fill="#367a57"></rect><rect x="42.5" y="30" width="15" height="40" fill="#367a57"></rect><rect x="67.5" y="30" width="15" height="40" fill="#367a57"></rect></svg></div><div class="loading-placeholder__text">Loading...</div></div></div></div></div>
+            </div>
+        </div>
+        <div class="l-article__aside">
+            <div class="l-article__aside-sticky">
+                    <div class="content-box  maxw-400px mx-auto">
+        <div class="heading-container">
+            <div class="fw-bold">Featured card from Mythical Island</div>
+        </div>
+        <div class="p-3">
+                <div class="js-random-card-app" data-expansion-id="A1a"><div class="game-card-image"><a href="/cards/a1a/36/flabebe/" class="game-card-image__link"><div class="game-card-image__inner undefined"><img class="game-card-image__img" src="https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_002510_00_FLABEBE_C.webp" alt=""></div></a></div></div>
+
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+<footer class="global-footer">
+    <div class="container">
+        <div class="text-center">
+            <a class="global-footer__link" href="/privacy/">Privacy Policy</a>
+            <span class="global-footer__sep">|</span>
+            <a class="global-footer__link" href="/terms/">Terms</a>
+            <span class="global-footer__sep">|</span>
+            <a class="global-footer__link" href="/about/">About</a>
+        </div>
+        <div class="text-center mt-3">
+            All Pokémon images, names, characters, and related marks are trademarks and copyright of The Pokémon Company, Nintendo, Game Freak, or Creatures Inc. (“Pokémon Rights Holders”). <br>Pokémon Zone is an unofficial fan site and is not endorsed by or affiliated with Pokémon Rights Holders.
+        </div>
+    </div>
+</footer>
+
+<div>
+        <div class="modal modal--inverse" tabindex="-1">
+            <div class="modal-dialog modal-dialog-scrollable">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div id="pct-content-root"></div>
+                    </div>
+                </div>
+                <div class="text-end position-fixed" style="z-index: 100; top: 1rem; right: 1rem; pointer-events: all;">
+                    <button type="button" class="button button--primary" data-bs-dismiss="modal" aria-label="Close">
+                        x
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div><iframe marginwidth="0" marginheight="0" scrolling="no" frameborder="0" id="13f604534f5a97" width="0" height="0" src="about:blank" name="__pb_locator__" style="display: none; height: 0px; width: 0px; border: 0px;"></iframe><iframe src="https://ads.adthrive.com/builds/core/a17eb1f/html/i.html" id="adt-ii" style="display: none;"></iframe><iframe src="https://ads.adthrive.com/builds/core/a17eb1f/html/rnf.html" id="adthrive-mcmp" style="display: none;"></iframe><iframe id="criteo-ig" src="https://gpsb-reims.criteo.com/paapi/join_ig?advertiser_id=500002_500329&amp;ig_name=r6NnpiEx" style="display: none;"></iframe><img src="https://pixel.rubiconproject.com/token?pid=49096&amp;us_privacy=1YNY" alt="" style="display: none;"><iframe id="__uspapiLocator" name="__uspapiLocator" style="display: none;"></iframe><div id="adthrive-ccpa-modal" class="adthrive-ccpa-modal"><div id="adthrive-ccpa-modal-content" class="adthrive-ccpa-modal-content"><div id="adthrive-ccpa-modal-close-btn-container"><span>✕</span></div><div id="adthrive-ccpa-modal-title">Do not sell or share my personal information.</div><span id="adthrive-ccpa-modal-language">You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the "Customize my ad experience" link.<br>
+    <br>This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.<br>
+    <br>For more information please visit this site's Privacy Policy.</span><div class="adthrive-ccpa-lower-buttons-container"><div id="adthrive-ccpa-modal-cancel-btn" class="adthrive-ccpa-modal-btn">CANCEL</div><div id="adthrive-ccpa-modal-continue-btn" class="adthrive-ccpa-modal-btn">CONTINUE</div></div></div></div><div id="AdThrive_Footer_1_desktop" class="adthrive-ad adthrive-footer adthrive-footer-1 adthrive-ad-cls adthrive-footer-desktop adthrive-sticky" data-google-query-id="CLe22eWrjIsDFSefWgUdkSsNTQ"><div id="google_ads_iframe_/18190176,22579233849/AdThrive_Footer_1/6728f8d90da88924de40aa63_0__container__" style="border: 0pt none; display: inline-block; width: 320px; height: 100px;"><iframe frameborder="0" src="https://bee7dfa729c77e6a65f53a33280ae07f.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html" id="google_ads_iframe_/18190176,22579233849/AdThrive_Footer_1/6728f8d90da88924de40aa63_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="320" height="100" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="private-state-token-redemption;attribution-reporting" aria-label="Advertisement" tabindex="0" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div><div class="adthrive-sticky-outstream adthrive-sticky-outstream-desktop adthrive-stuck adthrive-sticky-outstream-idle" style="min-height: 10px;"><div class="adthrive-wrapper-float-close adthrive-wrapper-close-bkgd-50 adthrive-top-left-inner" style="display: none;"><div tabindex="0" class="" id="adthrive-sticky-outstream-close"><svg width="18" height="18" text-anchor="middle" dominant-baseline="central" fill="transparent"><path d="M 0.5 9 A 5 5 0 0 0 17.5 9 A 5 5 0 0 0 0.5 9 M 9 9 L 7 7 L 11 11 M 9 9 L 7 11 L 11 7" stroke="white" stroke-width="1"></path></svg></div></div><div id="AdThrive_Video_StickyOutstream_1_desktop" class="adthrive-ad adthrive-video-stickyoutstream adthrive-video-stickyoutstream-1 adthrive-sticky" style="width: auto;" data-google-query-id="COHA5eWrjIsDFTmPWgUdbWcqnA"><div id="google_ads_iframe_/18190176,22579233849/AdThrive_Video_StickyOutstream_1/6728f8d90da88924de40aa63_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/18190176,22579233849/AdThrive_Video_StickyOutstream_1/6728f8d90da88924de40aa63_0" name="google_ads_iframe_/18190176,22579233849/AdThrive_Video_StickyOutstream_1/6728f8d90da88924de40aa63_0" title="3rd party ad content" width="1" height="1" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="2" style="border: 0px; vertical-align: bottom; width: 1px; height: 1px;"></iframe></div></div></div><div class="adthrive-comscore adthrive-footer-message"><div id="adthrive-ccpa-link" class="adthrive-ccpa-link" style="display: none;">Information from your device can be used to personalize your ad experience. <br><br><a id="ccpaTag" href="/">Do not sell or share my personal information.</a></div></div><iframe name="__launchpadLocator" style="display: none;"></iframe><iframe name="cnftComm" style="display: none; position: fixed; left: -999px; top: -999px; width: 0px; height: 0px;"></iframe><div id="confiant_tag_holder" style="display:none"></div><script type="text/javascript" async="true" src="https://cdn.brandmetrics.com/scripts/bundle/65568.js?sid=f9816ecc-b51b-4747-bc3e-1ea86a0677a2&amp;toploc=www.pokemon-zone.com"></script><iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe><iframe height="0" width="0" frameborder="0" src="https://feed.pghub.io/tag?us_privacy=1YNY&amp;referrer_url=https%3A%2F%2Fwww.pokemon-zone.com%2Fdecks%2F&amp;page_url=https%3A%2F%2Fwww.pokemon-zone.com%2Fdecks%2Fcelebi-ex%2F&amp;owner=P%26G&amp;bp_id=cafemedia&amp;ch=%7B%22architecture%22%3A%22x86%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22131%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22131%22%7D%2C%7B%22brand%22%3A%22Not_A%20Brand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22131.0.6778.267%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22131.0.6778.267%22%7D%2C%7B%22brand%22%3A%22Not_A%20Brand%22%2C%22version%22%3A%2224.0.0.0%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Windows%22%2C%22platformVersion%22%3A%2219.0.0%22%7D&amp;initiator=js" style="display: none;"></iframe><script type="text/javascript" src="https://pghub.io/js/pandg-sdk.js"></script><iframe src="https://ads.optable.co/ca/paapi/v1/dsp/ig/join?origin=f6ebc676-1e2b-43d1-9c48-a1d4ae9cc730&amp;vid=v%3A3srV1FTfjkKh3WLQRtDUnQ" allow="join-ad-interest-group https://ads.optable.co" style="display: none;"></iframe></body>
