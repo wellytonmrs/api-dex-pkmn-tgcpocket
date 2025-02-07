@@ -1,21 +1,43 @@
 # Logs
-logs
+logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+debug.log
+*.out
+*.pid
+*.seed
 
-node_modules
-dist
-dist-ssr
-*.local
+# Node.js dependencies
+node_modules/
+
+# Build artifacts
+dist/
+dist-ssr/
+build/
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Prisma-related files
+prisma/migrations/
+prisma/dev.db
+prisma/dev.db-journal
+prisma/.env
+prisma/.dbignore
 
 # Editor directories and files
-.vscode/*
+.vscode/
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
@@ -23,6 +45,20 @@ dist-ssr
 *.sln
 *.sw?
 
-.vercel
-.env
+# System files
+Thumbs.db
+
+# Vercel & Deployment
+.vercel/
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Local temporary files
+*.local
 src/.IA

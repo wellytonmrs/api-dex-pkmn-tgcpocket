@@ -1,0 +1,71 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id         String @id @default(auto()) @map("_id") @db.ObjectId
+  name       String
+  email      String
+  password   String
+  friendCode String
+
+  @@map("users")
+}
+
+model Card {
+  id              String    @id @map("_id")
+  dex             String
+  setId           String
+  number          String
+  name            String
+  set_code        String
+  set_name        String?
+  rarity          String
+  color           String
+  type            String
+  hp              String
+  stage           String
+  prew_stage_name String?
+  ability         Ability[]
+  weakness        String
+  retreat         String
+}
+
+type Ability {
+  info   String
+  effect String
+}
+
+model OwnedCard {
+  id       String   @id @map("_id")
+  cardId   String // Reference to the Card (manual relation)
+  name     String
+  imageUrl String
+  packs    String[]
+  type     String
+  rarity   String
+  ex       Boolean
+  qtd      Int
+
+  @@map("owned_cards")
+}
+
+model SysDeck {
+  id       String   @id @map("_id")
+  name     String
+  cards    String[] // Store card IDs as an array
+  imageUrl String
+
+  @@map("sys_decks")
+}
