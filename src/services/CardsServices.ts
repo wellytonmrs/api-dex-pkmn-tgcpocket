@@ -6,9 +6,10 @@ interface CreateCustomerProps {
 }
 
 class CardsServices {
-    async createCustomer({ name, email }: CreateCustomerProps) {
 
-        if(!name || !email) {
+    async getOwnedCards({ name, email }: CreateCustomerProps) {
+
+        if (!name || !email) {
             throw new Error("Name or email is missing");
         }
 
@@ -22,6 +23,41 @@ class CardsServices {
 
         return customer;
     }
+
+    async getfilterCards({ name, email }: CreateCustomerProps) {
+
+        if (!name || !email) {
+            throw new Error("Name or email is missing");
+        }
+
+        const customer = await prismaClient.customer.create({
+            data: {
+                name,
+                email,
+                status: true
+            }
+        });
+
+        return customer;
+    }
+
+    async registerCard({ name, email }: CreateCustomerProps) {
+
+        if (!name || !email) {
+            throw new Error("Name or email is missing");
+        }
+
+        const customer = await prismaClient.customer.create({
+            data: {
+                name,
+                email,
+                status: true
+            }
+        });
+
+        return customer;
+    }
+
 }
 
 export { CardsServices };
